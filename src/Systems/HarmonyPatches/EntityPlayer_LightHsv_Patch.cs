@@ -1,7 +1,7 @@
+using HarmonyLib;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using HarmonyLib;
 using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 
@@ -31,8 +31,33 @@ public static class EntityPlayer_LightHsv_Patch
         {
             return;
         }
-        byte[] lightBytes = slots.First().Itemstack.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, slots.First().Itemstack);
-        __result = lightBytes;
-        return;
+
+        ItemStack righthandStack = __instance.Player.Entity.RightHandItemSlot?.Itemstack;
+        ItemStack lefthandStack = __instance.Player.Entity.LeftHandItemSlot?.Itemstack;
+        ItemStack firstBackpackStack = slots.First().Itemstack;
+
+        byte[] rightHandBytes = righthandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, righthandStack);
+        byte[] leftHandBytes = lefthandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, lefthandStack);
+        byte[] backpackBytes = firstBackpackStack.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, firstBackpackStack);
+
+        if (backpackBytes == null) return;
+
+        if (rightHandBytes == null && leftHandBytes == null)
+        {
+            __result = backpackBytes;
+            return;
+        }
+
+        if (rightHandBytes == null && leftHandBytes != null)
+        {
+            __result = leftHandBytes[2] > backpackBytes[2] ? leftHandBytes : backpackBytes;
+            return;
+        }
+
+        if (rightHandBytes != null && leftHandBytes == null)
+        {
+            __result = rightHandBytes[2] > backpackBytes[2] ? rightHandBytes : backpackBytes;
+            return;
+        }
     }
 }

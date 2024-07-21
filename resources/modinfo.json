@@ -5,7 +5,7 @@
   "name": "Fendragon Backpack Construction System",
   "authors": ["UA_Shaman, Craluminum2413, MrFlame"],
   "description": "Fendragon Backpack Construction System - this mod add backpack and construction system for update you backpacks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "RequiredOnClient": true,
   "RequiredOnServer": true,
   "dependencies": {
