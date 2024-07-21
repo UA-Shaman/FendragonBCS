@@ -1,7 +1,7 @@
+using HarmonyLib;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using HarmonyLib;
 using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 
@@ -31,8 +31,21 @@ public static class EntityPlayer_LightHsv_Patch
         {
             return;
         }
-        byte[] lightBytes = slots.First().Itemstack.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, slots.First().Itemstack);
-        __result = lightBytes;
+
+        ItemStack firstHandStack = __instance.Player.InventoryManager.ActiveHotbarSlot?.Itemstack;
+        ItemStack firstBackpackStack = slots.First().Itemstack;
+
+        byte[] handBytes = firstHandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, firstHandStack);
+        byte[] backpackBytes = firstBackpackStack.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, firstBackpackStack);
+
+        if (handBytes == null)
+        {
+            __result = backpackBytes;
+        }
+        else if (backpackBytes != null)
+        {
+            __result = handBytes[2] > backpackBytes[2] ? handBytes : backpackBytes;
+        }
         return;
     }
 }
