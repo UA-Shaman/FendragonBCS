@@ -1,0 +1,98 @@
+[
+	{
+_Comment: "Крафт кошика з соломи",
+		ingredientPattern: "_L_,L_L,LLL",
+		name: "stationarybasketupgrade",
+		ingredients: {
+			"L": { type: "item", code: "game:drygrass", quantity: 4 }
+		},	
+		width: 3,
+		height: 3,
+		output: { type: "item", code: "game:basket", quantity: 1 }
+	},		
+	{
+_Comment: "Кошик апгрейд в кошик з очерету",
+		ingredientPattern: "LLL	CBC	CCC",
+		name: "stationarybasketupgrade",
+		ingredients: {
+			"L": { type: "item", code: "game:cattailtops", quantity: 3 },
+			"C": { type: "item", code: "game:cattailtops", quantity: 1 },
+			"B": { type: "item", code: "game:basket" }
+		},	
+		width: 3,
+		height: 3,
+		output: { type: "block", code: "game:stationarybasket-east", attributes: { type: "reed" } }
+	},
+	{	
+_Comment: "Кошик перетворення в мисливський рюкзак з великої,середньої,величезної шкіри",
+		ingredientPattern: "KBL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 5 },
+			"B": { type: "item",  code: "game:basket", quantity: 1 },
+			"L": { type: "item", code: "game:hide-pelt-*", name: "variant", allowedVariants: ["huge", "large", "medium"]}
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 3,	
+		output: { type: "item", code: "game:hunterbackpack", quantity: 1}
+	},
+	{	
+_Comment: "Кошик перетворення в мисливський рюкзак з маленької шкіри",
+		ingredientPattern: "KBL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 5 },
+			"B": { type: "item",  code: "game:basket", quantity: 1 },
+			"L": { type: "item", code: "game:hide-pelt-small", quantity: 3}
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 3,	
+		output: { type: "item", code: "game:hunterbackpack", quantity: 1}
+	},		
+	{	
+_Comment: "Мисливський рюкзак перетворення в шкіряний наплічник з великої,середньої,величезної шкіри",
+		ingredientPattern: "RKR,LBL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item",  code: "game:rope", quantity: 2 },
+			"B": { type: "item",  code: "game:hunterbackpack" },
+			"L": { type: "item", code: "game:hide-pelt-*", name: "variant", allowedVariants: ["huge", "large", "medium"]}
+		},
+		width: 3,
+		height: 2,
+		recipeGroup: 2,	
+		output: { type: "item", code: "game:backpack"}
+	},
+	{	
+_Comment: "Мисливський рюкзак перетворення в шкіряний наплічник з маленької шкіри",
+		ingredientPattern: "RKR,LBL,LLL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"R": { type: "item",  code: "game:rope", quantity: 2 },
+			"B": { type: "item",  code: "game:hunterbackpack" },
+			"L": { type: "item", code: "game:hide-pelt-small", quantity: 2 }
+		},
+		width: 3,
+		height: 3,
+		recipeGroup: 2,	
+		output: { type: "item", code: "game:backpack"}
+	},
+	{	
+_Comment: "Кошик перетворюється в льняний мішок",
+		ingredientPattern: "KBL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 5 },
+			"B": { type: "item",  code: "game:basket", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 1}
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 2,	
+		output: { type: "item", code: "game:linensack", quantity: 1}
+	}
+]

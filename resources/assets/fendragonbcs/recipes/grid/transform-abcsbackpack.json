@@ -1,0 +1,170 @@
+[
+	{//0	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ПОЛОТНЯНИЙ міні",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:minibackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-mini", quantity: 1}
+	},
+	{//1	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ШКІРА міні",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:minileatherbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mini", quantity: 1}
+	},
+	{//2
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ПОЛОТНЯНИЙ високий",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:tallbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-tall", quantity: 1}
+	},
+	{//3	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ШКІРА високий",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:tallleatherbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-tall", quantity: 1}
+	},
+	{//4
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ПОЛОТНЯНИЙ базовий",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:basicbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-basic", quantity: 1}
+	},
+	{//5	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ШКІРА базовий",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:basicleatherbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-basic", quantity: 1}
+	},
+	{//6	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ПОЛОТНЯНИЙ супер",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:superbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-super", quantity: 1}
+	},
+	{//7	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ШКІРА супер",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:superleatherbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-super", quantity: 1}
+	},
+	{//8	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ПОЛОТНЯНИЙ мега",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:megabackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-mega", quantity: 1}
+	},
+	{//9	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ШКІРА мега",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:megaleatherbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mega", quantity: 1}
+	},
+	{//10
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ПОЛОТНЯНИЙ ультра",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:ultrabackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-ultra", quantity: 1}
+	},
+	{//11	
+_Comment: "Трансформація рюкзака ABCS в FendragonBCS ШКІРА ультра",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "abcsreborn:ultraleatherbackpack", quantity: 1 }
+		},
+		width: 1,
+		height: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-ultra", quantity: 1}
+	}
+]

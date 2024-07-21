@@ -1,0 +1,100 @@
+[
+	{	
+_Comment: "Рекрафт льняного мішка",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item",  code: "game:linensack" }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "block", code: "game:linen-normal-down"}
+	},	
+	{	
+_Comment: "Рекрафт ПОЛОТНЯНОГО міні рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-mini", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "block", code: "game:linen-normal-down", quantity: 2}
+	},
+	{	
+_Comment: "Рекрафт ПОЛОТНЯНОГО високого рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-tall", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "block", code: "game:linen-normal-down", quantity: 10 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "game:metalbit-{material}", quantity: 400}
+	},	
+	{	
+_Comment: "Рекрафт ПОЛОТНЯНОГО базового рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-basic", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "block", code: "game:linen-normal-down", quantity: 8 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-tall", quantity: 1}
+	},
+	{	
+_Comment: "Рекрафт ПОЛОТНЯНОГО супер рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-super", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "block", code: "game:linen-normal-down", quantity: 8 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-basic", quantity: 1}
+	},
+	{	
+_Comment: "Рекрафт ПОЛОТНЯНОГО мега рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-mega", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "block", code: "game:linen-normal-down", quantity: 8 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-super", quantity: 1}
+	},
+	{	
+_Comment: "Рекрафт ПОЛОТНЯНОГО ультра рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-ultra", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "block", code: "game:linen-normal-down", quantity: 8 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-mega", quantity: 1}
+	}
+]

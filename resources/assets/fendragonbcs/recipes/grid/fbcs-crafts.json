@@ -1,0 +1,519 @@
+[
+	{//0
+_Comment: "Крафт ШКІРЯНОГО міні рюкзака з маленької шкіри",	
+		ingredientPattern: "KT,BM,LG",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },			
+			"T": { type: "item", code: "game:gear-temporal", quantity: 1 },
+			"B": { type: "item", code: "game:backpack", quantity: 1 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"L": { type: "item", code: "game:hide-pelt-small", quantity: 3},
+			"G": { type: "block", code: "game:jug-*-fired", quantity: 1 }
+		},	
+		width: 2,
+		height: 3,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mini", quantity: 1 }
+	},
+	{//1
+_Comment: "Крафт ШКІРЯНОГО міні рюкзака з великої,середньої,величезної шкіри",
+		ingredientPattern: "KT,BM,LG",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },			
+			"T": { type: "item", code: "game:gear-temporal", quantity: 1 },
+			"B": { type: "item", code: "game:backpack", quantity: 1 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"L": { type: "item", code: "game:hide-pelt-huge", quantity: 1 },
+			"G": { type: "block", code: "game:jug-*-fired", quantity: 1 }
+		},	
+		width: 2,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mini", quantity: 1 }
+	},
+	{//2
+_Comment: "Крафт ПОЛОТНЯНОГО міні рюкзака з тканини",
+		ingredientPattern: "KT,BM,LG",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },			
+			"T": { type: "item", code: "game:gear-temporal", quantity: 1 },
+			"B": { type: "item", code: "game:linensack", quantity: 1 },
+			"M": { type: "item", code: "game:metalbit-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 1},
+			"G": { type: "block", code: "game:jug-*-fired", quantity: 1 }
+		},	
+		width: 2,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-mini", quantity: 1 }
+	},
+	
+	{//3	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака мідь",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "copper", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-copper", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-copper-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-copper", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }			
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-copper-tall", quantity: 1 }
+		},
+		{//4	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака олов'яна бронза",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "tinbronze", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-tinbronze", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-tinbronze-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-tinbronze", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-tinbronze-tall", quantity: 1 }
+		},
+		{//5
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака вісмутова бронза",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "bismuthbronze", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-bismuthbronze", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-bismuthbronze-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-bismuthbronze", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-bismuthbronze-tall", quantity: 1 }
+		},
+		{//6	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака чорна бронза",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "blackbronze", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-blackbronze", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-blackbronze-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-blackbronze", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-blackbronze-tall", quantity: 1 }
+		},
+		{//7	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака золото",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "gold", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-gold", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-gold-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-gold", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-gold-tall", quantity: 1 }
+		},
+		{//8	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака срібло",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "silver", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-silver", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-silver-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-silver", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-silver-tall", quantity: 1 }
+		},
+		{//9	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака залізо",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "iron", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-iron", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-iron-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-iron", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-iron-tall", quantity: 1 }
+		},
+		{//10	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака метеор.залізо",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "meteoriciron", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-meteoriciron", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-meteoriciron-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-meteoriciron", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-meteoriciron-tall", quantity: 1 }
+		},
+		{//11	
+	_Comment: "Крафт ШКІРЯНОГО високого рюкзака сталь",	
+			ingredientPattern: "KFN,PBA,L_L",
+			enabled: true,
+			ingredients: {
+				"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+				"F": { type: "block", code: "game:lantern-up", attributes: { material: "steel", lining: "plain", glass: "quartz" }, quantity: 1 },
+				"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+				"P": { type: "item", code: "game:pickaxe-steel", quantity: 1 },
+				"B": { type: "item", code: "fendragonbcs:fbcs-shkira-steel-mini", quantity: 1 },
+				"A": { type: "item", code: "game:axe-felling-steel", quantity: 1 },
+				"L": { type: "item", code: "game:leather-green", quantity: 4 }		
+			},	
+			width: 3,
+			height: 3,
+			recipeGroup: 1,
+			output: { type: "item", code: "fendragonbcs:fbcs-shkira-steel-tall", quantity: 1 }
+		},
+
+	{//12	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака мідь",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "copper", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-copper", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-copper-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-copper", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }			
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-copper-tall", quantity: 1 }
+	},
+	{//13	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака олов'яна бронза",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "tinbronze", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-tinbronze", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-tinbronze-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-tinbronze", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-tinbronze-tall", quantity: 1 }
+	},
+	{//14	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака вісмутова бронза",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "bismuthbronze", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-bismuthbronze", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-bismuthbronze-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-bismuthbronze", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-bismuthbronze-tall", quantity: 1 }
+	},
+	{//15	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака чорна бронза",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "blackbronze", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-blackbronze", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-blackbronze-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-blackbronze", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-blackbronze-tall", quantity: 1 }
+	},
+	{//16	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака золото",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "gold", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-gold", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-gold-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-gold", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-gold-tall", quantity: 1 }
+	},
+	{//17	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака срібло",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "silver", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-silver", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-silver-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-silver", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-silver-tall", quantity: 1 }
+	},
+	{//18	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака залізо",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "iron", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-iron", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-iron-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-iron", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-iron-tall", quantity: 1 }
+	},
+	{//19	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака метеор.залізо",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "meteoriciron", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-meteoriciron", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-meteoriciron-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-meteoriciron", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-meteoriciron-tall", quantity: 1 }
+	},
+	{//20	
+_Comment: "Крафт ПОЛОТНЯНОГО високого рюкзака сталь",	
+		ingredientPattern: "KFN,PBA,L_L",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"F": { type: "block", code: "game:lantern-up", attributes: { material: "steel", lining: "plain", glass: "quartz" }, quantity: 1 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },			
+			"P": { type: "item", code: "game:pickaxe-steel", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-steel-mini", quantity: 1 },
+			"A": { type: "item", code: "game:axe-felling-steel", quantity: 1 },
+			"L": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 4 }	
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-steel-tall", quantity: 1 }
+	},
+
+	{//21	
+_Comment: "Крафт ШКІРЯНОГО базового рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:leather-black", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-tall", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:clearquartz", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-molybdochalkos", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-basic", quantity: 1 }
+	},	
+	{//22	
+_Comment: "Крафт ПОЛОТНЯНОГО базового рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:cloth-brown", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-tall", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:clearquartz", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-molybdochalkos", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-basic", quantity: 1 }
+	},
+	
+	{//23	
+_Comment: "Крафт ШКІРЯНОГО супер рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:leather-white", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-basic", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:ore-lapislazuli", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-blackbronze", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-super", quantity: 1 }
+	},	
+	{//24	
+_Comment: "Крафт ПОЛОТНЯНОГО супер рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:cloth-blue", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-basic", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:ore-lapislazuli", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-blackbronze", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-super", quantity: 1 }
+	},
+
+	{//25	
+_Comment: "Крафт ШКІРЯНОГО мега рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:leather-orange", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-super", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:gem-emerald-rough", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-meteoriciron", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mega", quantity: 1 }
+	},	
+	{//26	
+_Comment: "Крафт ПОЛОТНЯНОГО мега рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:cloth-black", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-super", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:gem-emerald-rough", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-meteoriciron", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-mega", quantity: 1 }
+	},
+	
+	{//27	
+_Comment: "Крафт ШКІРЯНОГО ультра рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:leather-red", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mega", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:gem-diamond-rough", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-steel", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-ultra", quantity: 1 }
+	},	
+	{//28	
+_Comment: "Крафт ПОЛОТНЯНОГО ультра рюкзака",	
+		ingredientPattern: "K_N,LBL,QMQ",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			"N": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:cloth-red", quantity: 4 },					
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-mega", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"Q": { type: "item", code: "game:gem-diamond-rough", quantity: 1 },
+			"M": { type: "item", code: "game:metalplate-steel", quantity: 1 }
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-ultra", quantity: 1 }
+	}	
+]

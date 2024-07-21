@@ -1,0 +1,46 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+        {
+            "name": "Launch Client (Debug)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${env:VINTAGE_STORY}/Vintagestory.exe",
+            "linux": {
+                "program": "${env:VINTAGE_STORY}/Vintagestory"
+            },
+            "osx": {
+                "program": "${env:VINTAGE_STORY}/Vintagestory"
+            },
+            "preLaunchTask": "Build",
+            "args": [
+                "--openWorld" , "fendragonbcs config test",
+                "--tracelog",
+                "--addModPath", "${workspaceFolder}/bin/Debug/net7",
+                "--addOrigin" , "${workspaceFolder}/resources/assets"
+            ],
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Launch Server",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${env:VINTAGE_STORY}/VintagestoryServer.exe",
+            "linux": {
+                "program": "${env:VINTAGE_STORY}/VintagestoryServer"
+            },
+            "osx": {
+                "program": "${env:VINTAGE_STORY}/VintagestoryServer"
+            },
+            "preLaunchTask": "Build",
+            "args": [
+                "--openWorld" , "fendragonbcs config test",
+                "--tracelog",
+                "--addModPath", "${workspaceFolder}/bin/Debug/net7",
+                "--addOrigin" , "${workspaceFolder}/resources/assets"
+            ],
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }]
+}

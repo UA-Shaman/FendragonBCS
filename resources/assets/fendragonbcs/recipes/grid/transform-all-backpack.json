@@ -1,0 +1,182 @@
+[
+	{	
+_Comment: "Трансформація ШКІРЯНОГО рюкзака в ПОЛОТНЯНИЙ міні",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mini", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 1}
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-mini", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ПОЛОТНЯНОГО в ШКІРЯНИЙ міні",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-mini", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:hide-pelt-huge", quantity: 1}
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mini", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО рюкзака в ПОЛОТНЯНИЙ високого",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mini", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "block", code: "game:linen-*-down", name: "variant", allowedVariants: [ "diamond", "normal", "offset", "square" ], quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-tall", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ПОЛОТНЯНОГО в ШКІРЯНИЙ високого",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-tall", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:leather-green", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-tall", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО рюкзака в ПОЛОТНЯНИЙ базовий",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-basic", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:cloth-brown", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-basic", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ПОЛОТНЯНОГО в ШКІРЯНИЙ базовий",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-basic", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:leather-black", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-basic", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО рюкзака в ПОЛОТНЯНИЙ супер",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-super", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:cloth-blue", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-super", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ПОЛОТНЯНОГО в ШКІРЯНИЙ супер",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-super", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:leather-white", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-super", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО рюкзака в ПОЛОТНЯНИЙ мега",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mega", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:cloth-black", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-mega", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ПОЛОТНЯНОГО в ШКІРЯНИЙ мега",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-mega", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:leather-orange", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mega", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО рюкзака в ПОЛОТНЯНИЙ ультра",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-ultra", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:cloth-red", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-polotno-{material}-ultra", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ПОЛОТНЯНОГО в ШКІРЯНИЙ ультра",
+		ingredientPattern: "K,B,M",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-polotno-*-ultra", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"M": { type: "item", code: "game:leather-red", quantity: 8 }
+		},
+		width: 1,
+		height: 3,
+		recipeGroup: 4,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-ultra", quantity: 1}
+	}
+]

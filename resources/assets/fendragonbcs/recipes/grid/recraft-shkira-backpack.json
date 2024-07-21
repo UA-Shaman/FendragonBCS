@@ -1,0 +1,114 @@
+[
+	{	
+_Comment: "Рекрафт мисливського наплічника",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item",  code: "game:hunterbackpack" }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,
+		output: { type: "item", code: "game:hide-raw-large"}
+	},
+	{	
+_Comment: "Рекрафт шкіряного рюкзака ",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item",  code: "game:backpack" }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "game:leather-plain", quantity: 6}
+	},
+	{	
+_Comment: "Рекрафт ШКІРЯНОГО міні рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mini", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "game:hide-raw-large", quantity: 4}
+	},
+	{	
+_Comment: "Рекрафт ШКІРЯНОГО високого рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-tall", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "item", code: "game:leather-plain", quantity: 12 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "game:metalbit-{material}", quantity: 400}
+	},
+	{	
+_Comment: "Рекрафт ШКІРЯНОГО базового рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-basic", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1, returnedStack: { type: "item", code: "game:leather-plain", quantity: 8 } }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-tall", quantity: 1}
+	},
+	{	
+_Comment: "Рекрафт ШКІРЯНОГО супер рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-super", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "item", code: "game:leather-plain", quantity: 8 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-basic", quantity: 1}
+	},
+	{	
+_Comment: "Рекрафт ШКІРЯНОГО мега рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mega", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "item", code: "game:leather-plain", quantity: 8 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-super", quantity: 1}
+	},
+	{	
+_Comment: "Рекрафт ШКІРЯНОГО ультра рюкзака",
+		ingredientPattern: "KB",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10  },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-ultra", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], returnedStack: { type: "item", code: "game:leather-plain", quantity: 8 }, quantity: 1 }
+		},
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mega", quantity: 1}
+	}
+]

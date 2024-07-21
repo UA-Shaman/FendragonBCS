@@ -1,0 +1,9 @@
+[
+	{
+_Comment: "Патч на ванільний рюкзак на 6 слотів й його відображення",
+	"file": "game:itemtypes/bag/backpack.json",
+	"op": "remove",
+	"path": "/attributes/wearableAttachment",
+	"value": null
+	}
+]

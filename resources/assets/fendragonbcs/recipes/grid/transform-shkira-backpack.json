@@ -1,0 +1,98 @@
+[
+	{	
+_Comment: "Трансформація ШКІРЯНОГО міні рюкзака в різні види під матеріал",
+		ingredientPattern: "K_H,_B_,_M_",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"H": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:ingot-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mini", quantity: 1 }
+		},
+		width: 3,
+		height: 3,
+		recipeGroup: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mini", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО високого рюкзака в різні види під матеріал",
+		ingredientPattern: "K_H,_B_,_M_",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"H": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:ingot-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 4 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-tall", quantity: 1 }
+		},
+		width: 3,
+		height: 3,
+		recipeGroup: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-tall", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО базового рюкзака в різні види під матеріал",
+		ingredientPattern: "K_H,_B_,_M_",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"H": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:ingot-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 4 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-basic", quantity: 1 }
+		},
+		width: 3,
+		height: 3,
+		recipeGroup: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-basic", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО супер рюкзака в різні види під матеріал",
+		ingredientPattern: "K_H,_B_,_M_",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"H": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:ingot-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 4 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-super", quantity: 1 }
+		},
+		width: 3,
+		height: 3,
+		recipeGroup: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-super", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО мега рюкзака в різні види під матеріал",
+		ingredientPattern: "K_H,_B_,_M_",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"H": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:ingot-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 4 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-mega", quantity: 1 }
+		},
+		width: 3,
+		height: 3,
+		recipeGroup: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-mega", quantity: 1}
+	},
+	{	
+_Comment: "Трансформація ШКІРЯНОГО ультра рюкзака в різні види під матеріал",
+		ingredientPattern: "K_H,_B_,_M_",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"H": { type: "item", code: "game:hammer-*", isTool: true, toolDurabilityCost: 10 },
+			"M": { type: "item", code: "game:ingot-*", name: "material", allowedVariants: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "gold", "silver", "iron", "meteoriciron", "steel"], quantity: 4 },
+			"B": { type: "item", code: "fendragonbcs:fbcs-shkira-*-ultra", quantity: 1 }
+		},
+		width: 3,
+		height: 3,
+		recipeGroup: 3,
+		shapeless: false,		
+		output: { type: "item", code: "fendragonbcs:fbcs-shkira-{material}-ultra", quantity: 1}
+	}
+]
