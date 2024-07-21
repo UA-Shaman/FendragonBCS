@@ -32,20 +32,32 @@ public static class EntityPlayer_LightHsv_Patch
             return;
         }
 
-        ItemStack firstHandStack = __instance.Player.InventoryManager.ActiveHotbarSlot?.Itemstack;
+        ItemStack righthandStack = __instance.Player.Entity.RightHandItemSlot?.Itemstack;
+        ItemStack lefthandStack = __instance.Player.Entity.LeftHandItemSlot?.Itemstack;
         ItemStack firstBackpackStack = slots.First().Itemstack;
 
-        byte[] handBytes = firstHandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, firstHandStack);
+        byte[] rightHandBytes = righthandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, righthandStack);
+        byte[] leftHandBytes = lefthandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, lefthandStack);
         byte[] backpackBytes = firstBackpackStack.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, firstBackpackStack);
 
-        if (handBytes == null)
+        if (backpackBytes == null) return;
+
+        if (rightHandBytes == null && leftHandBytes == null)
         {
             __result = backpackBytes;
+            return;
         }
-        else if (backpackBytes != null)
+
+        if (rightHandBytes == null && leftHandBytes != null)
         {
-            __result = handBytes[2] > backpackBytes[2] ? handBytes : backpackBytes;
+            __result = leftHandBytes[2] > backpackBytes[2] ? leftHandBytes : backpackBytes;
+            return;
         }
-        return;
+
+        if (rightHandBytes != null && leftHandBytes == null)
+        {
+            __result = rightHandBytes[2] > backpackBytes[2] ? rightHandBytes : backpackBytes;
+            return;
+        }
     }
 }
