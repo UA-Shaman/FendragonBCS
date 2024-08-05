@@ -42,21 +42,11 @@ public static class EntityPlayer_LightHsv_Patch
 
         if (backpackBytes == null) return;
 
-        if (rightHandBytes == null && leftHandBytes == null)
+        if (rightHandBytes == null && leftHandBytes == null
+        || (rightHandBytes != null && rightHandBytes[2] < backpackBytes[2])
+        || (leftHandBytes != null && leftHandBytes[2] < backpackBytes[2]))
         {
             __result = backpackBytes;
-            return;
-        }
-
-        if (rightHandBytes == null && leftHandBytes != null)
-        {
-            __result = leftHandBytes[2] > backpackBytes[2] ? leftHandBytes : backpackBytes;
-            return;
-        }
-
-        if (rightHandBytes != null && leftHandBytes == null)
-        {
-            __result = rightHandBytes[2] > backpackBytes[2] ? rightHandBytes : backpackBytes;
             return;
         }
     }
