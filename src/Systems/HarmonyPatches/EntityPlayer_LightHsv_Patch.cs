@@ -16,12 +16,12 @@ public static class EntityPlayer_LightHsv_Patch
 
     public static void Postfix(ref byte[] __result, EntityPlayer __instance)
     {
-        if (__instance == null || !__instance.Alive || __instance.Player == null || __instance.Player.WorldData.CurrentGameMode == EnumGameMode.Spectator)
+        if (__instance == null || !__instance.Alive || __instance.Player == null || __instance.Player.Entity == null || __instance.Player.WorldData.CurrentGameMode == EnumGameMode.Spectator)
         {
             return;
         }
 
-        IInventory inv = __instance.Player.InventoryManager.GetOwnInventory(GlobalConstants.backpackInvClassName);
+        IInventory inv = __instance?.Player?.InventoryManager?.GetOwnInventory(GlobalConstants.backpackInvClassName);
         if (inv == null)
         {
             return;
@@ -32,13 +32,13 @@ public static class EntityPlayer_LightHsv_Patch
             return;
         }
 
-        ItemStack righthandStack = __instance.Player.Entity.RightHandItemSlot?.Itemstack;
-        ItemStack lefthandStack = __instance.Player.Entity.LeftHandItemSlot?.Itemstack;
-        ItemStack firstBackpackStack = slots.First().Itemstack;
+        ItemStack righthandStack = __instance?.RightHandItemSlot?.Itemstack;
+        ItemStack lefthandStack = __instance?.LeftHandItemSlot?.Itemstack;
+        ItemStack firstBackpackStack = slots?.First()?.Itemstack;
 
-        byte[] rightHandBytes = righthandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, righthandStack);
-        byte[] leftHandBytes = lefthandStack?.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, lefthandStack);
-        byte[] backpackBytes = firstBackpackStack.Collectible.GetLightHsv(__instance.World.BlockAccessor, null, firstBackpackStack);
+        byte[] rightHandBytes = righthandStack?.Collectible?.GetLightHsv(__instance?.World?.BlockAccessor, null, righthandStack);
+        byte[] leftHandBytes = lefthandStack?.Collectible?.GetLightHsv(__instance?.World?.BlockAccessor, null, lefthandStack);
+        byte[] backpackBytes = firstBackpackStack?.Collectible?.GetLightHsv(__instance?.World?.BlockAccessor, null, firstBackpackStack);
 
         if (backpackBytes == null) return;
 
