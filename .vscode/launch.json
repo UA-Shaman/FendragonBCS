@@ -1,6 +1,9 @@
 {
-	"version": "0.2.0",
-	"configurations": [
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
         {
             "name": "Launch Client (Debug)",
             "type": "coreclr",
@@ -12,12 +15,13 @@
             "osx": {
                 "program": "${env:VINTAGE_STORY}/Vintagestory"
             },
-            "preLaunchTask": "Build",
+            "preLaunchTask": "build",
             "args": [
-                "--openWorld" , "fendragonbcs config test",
+                // "--playStyle" , "preset-surviveandbuild",
+                // "--openWorld" , "modding test world",
                 "--tracelog",
-                "--addModPath", "${workspaceFolder}/bin/Debug/net7",
-                "--addOrigin" , "${workspaceFolder}/resources/assets"
+                "--addModPath",
+                "${workspaceFolder}/FendragonBCS/bin/Debug/Mods"
             ],
             "console": "internalConsole",
             "stopAtEntry": false
@@ -33,14 +37,25 @@
             "osx": {
                 "program": "${env:VINTAGE_STORY}/VintagestoryServer"
             },
-            "preLaunchTask": "Build",
+            "preLaunchTask": "build",
             "args": [
-                "--openWorld" , "fendragonbcs config test",
                 "--tracelog",
-                "--addModPath", "${workspaceFolder}/bin/Debug/net7",
-                "--addOrigin" , "${workspaceFolder}/resources/assets"
+                "--addModPath",
+                "${workspaceFolder}/FendragonBCS/bin/Debug/Mods"
             ],
             "console": "internalConsole",
             "stopAtEntry": false
-        }]
+        },
+        {
+            "name": "CakeBuild",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build (Cake)",
+            "program": "${workspaceFolder}/CakeBuild/bin/Debug/net7.0/CakeBuild.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CakeBuild",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
 }
