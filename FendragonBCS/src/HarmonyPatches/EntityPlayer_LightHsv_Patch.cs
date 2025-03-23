@@ -1,19 +1,15 @@
 using HarmonyLib;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 
 namespace FendragonBCS;
 
+[HarmonyPatch(typeof(EntityPlayer), nameof(EntityPlayer.LightHsv), MethodType.Getter)]
 public static class EntityPlayer_LightHsv_Patch
 {
-    public static MethodBase TargetMethod()
-    {
-        return AccessTools.PropertyGetter(typeof(EntityPlayer), nameof(EntityPlayer.LightHsv));
-    }
-
+    [HarmonyPostfix]
     public static void Postfix(ref byte[] __result, EntityPlayer __instance)
     {
         if (__instance == null || !__instance.Alive || __instance.Player == null || __instance.Player.Entity == null || __instance.Player.WorldData.CurrentGameMode == EnumGameMode.Spectator)
@@ -34,7 +30,9 @@ public static class EntityPlayer_LightHsv_Patch
 
         ItemStack righthandStack = __instance?.RightHandItemSlot?.Itemstack;
         ItemStack lefthandStack = __instance?.LeftHandItemSlot?.Itemstack;
-        ItemStack firstBackpackStack = slots?.First()?.Itemstack;
+        ItemStack firstBackpackStack = slots?.FirstOrDefault(slot => slot.Itemstack.Attributes.GetAsBool("toggleBackpackLight", true), null)?.Itemstack;
+
+        if (firstBackpackStack == null) return;
 
         byte[] rightHandBytes = righthandStack?.Collectible?.GetLightHsv(__instance?.World?.BlockAccessor, null, righthandStack);
         byte[] leftHandBytes = lefthandStack?.Collectible?.GetLightHsv(__instance?.World?.BlockAccessor, null, lefthandStack);
@@ -43,8 +41,8 @@ public static class EntityPlayer_LightHsv_Patch
         if (backpackBytes == null) return;
 
         if (rightHandBytes == null && leftHandBytes == null
-        || (rightHandBytes != null && rightHandBytes[2] < backpackBytes[2])
-        || (leftHandBytes != null && leftHandBytes[2] < backpackBytes[2]))
+        || rightHandBytes != null && rightHandBytes[2] < backpackBytes[2]
+        || leftHandBytes != null && leftHandBytes[2] < backpackBytes[2])
         {
             __result = backpackBytes;
             return;
