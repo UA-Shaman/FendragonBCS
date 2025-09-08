@@ -1,0 +1,93 @@
+[
+	{// **************************** ПОЛОТНО ****************************
+	//Ре-крафт ЛЬНЯНОЇ сумки в ПОЛОТНО",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "game:linensack", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 3,
+		output: { type: "block", code: "game:linen-normal-down", quantity: 1 }
+	},
+	{//
+	//Ре-крафт МІНІ рюкзака в ПОЛОТНяний мішок",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-polotno-mini", quantity: 1, returnedStack: { type: "item", code: "fendragonbcs:pocket-polotno-mini", quantity: 1 } },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:linensack", quantity: 1 }
+	},
+	{// **************************** ШКІРА ****************************
+	//Ре-крафт ШКІРяний наплічник в наплічник МИСЛИВЦЯ",
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "game:hunterbackpack", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:hide-pelt-large", quantity: 1 }
+	},
+	{//
+	//Ре-крафт ШКІРяний наплічник в наплічник МИСЛИВЦЯ",
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "game:backpack-normal", quantity: 1, returnedStack: { type: "item", code: "game:hide-pelt-large", quantity: 2 } },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:hunterbackpack", quantity: 1 }
+	},	
+	{//
+	//Ре-крафт МІНІ ** ШКІРЯНОГО ** рюкзака в ШКІРяний наплічник",
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-shkira-mini", quantity: 1, returnedStack: { type: "item", code: "fendragonbcs:pocket-shkira-mini", quantity: 1 } },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:backpack-normal", quantity: 1 }
+	},
+	{// **************************** СТРУДІ/МІЦНИЙ ****************************
+	//Ре-крафт МІЦНОГО БАЗОВОГО рюкзака в рюкзак з ПОЛОТНА",
+		ingredientPattern: "K__,R__",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-basic", quantity: 1, returnedStack: { type: "item", code: "game:leather-sturdy-plain", quantity: 2 } },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-polotno-basic", quantity: 1 }
+	},
+	{
+	//Ре-крафт МІЦНОГО БАЗОВОГО рюкзака в рюкзак з ШКІРИ",
+		ingredientPattern: "__K,__R",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-basic", quantity: 1, returnedStack: { type: "item", code: "game:leather-sturdy-plain", quantity: 2 } },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-basic", quantity: 1 }
+	},
+]

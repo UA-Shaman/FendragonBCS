@@ -1,0 +1,119 @@
+[
+	{// **************************** РЕКРАФТ КИШЕНЬ ПОЛОТНО ****************************
+	//Ре-крафт КИШЕНІ МІНІ в ПОЛОТНО",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-polotno-mini", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:cloth-plain", quantity: 4 }
+	},
+	{//
+	//Ре-крафт КИШЕНІ СЕРЕДНЯ в ПОЛОТНО",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-polotno-middle", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:cloth-mordant", quantity: 6 }
+	},
+	{//
+	//Ре-крафт КИШЕНІ ВЕЛИКА в ПОЛОТНО",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-polotno-big", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:cloth-mordant", quantity: 8 }
+	},
+	{// **************************** РЕКРАФТ КИШЕНЬ ШКІРА ****************************
+	//Ре-крафт КИШЕНІ МІНІ в ШКІРА",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-shkira-mini", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:hide-pelt-large", quantity: 2 }
+	},
+	{//
+	//Ре-крафт КИШЕНІ СЕРЕДНЯ в ШКІРА",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-shkira-middle", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:leather-normal-plain", quantity: 6 }
+	},
+	{//
+	//Ре-крафт КИШЕНІ ВЕЛИКА в ШКІРА",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-shkira-big", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:leather-normal-plain", quantity: 8 }
+	},
+	{// **************************** РЕКРАФТ КИШЕНЬ МІЦНИХ ****************************
+	//Ре-крафт КИШЕНІ МІНІ в МІЦНИХ",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-shkira-mini", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:hide-chromium-huge", quantity: 2 }
+	},
+	{//
+	//Ре-крафт КИШЕНІ СЕРЕДНЯ в МІЦНИХ",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-shkira-middle", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:leather-sturdy-plain", quantity: 2 }
+	},
+	{//
+	//Ре-крафт КИШЕНІ ВЕЛИКА в МІЦНИХ",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:pocket-shkira-big", quantity: 1 },
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "game:leather-sturdy-plain", quantity: 2 }
+	},
+]

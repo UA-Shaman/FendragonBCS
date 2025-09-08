@@ -1,0 +1,88 @@
+[
+	{//МІЦНИЙ рюкзак стартує з базового бо раніше сенсу немає його починати робити, рахується за лейт гейм рюкзаки з більшою кількістю слотів.
+	//Крафт БАЗОВИЙ рюкзака МІЦНИЙ",	
+		ingredientPattern: "SKL,_RC",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"L": { type: "item", code: "game:leather-sturdy-plain", quantity: 2 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-*-basic", name: "variant", allowedVariants: [ "polotno", "shkira" ], quantity: 1, returnedStack: { type: "block", code: "game:torchholder-aged-empty-north", quantity: 1 } },
+			"C": { type: "block", code: "game:clutter", attributes: { type: "lantern/ground1" }, quantity: 1, returnedStack: { type: "block", code: "game:torch-basic-lit-up", quantity: 1 } },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-sturdy-basic", quantity: 1 }
+	},
+	{//
+	//Крафт ШИРОКИЙ рюкзака МІЦНИЙ",	
+		ingredientPattern: "SK,RM",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-basic", quantity: 1 },
+			"M": { type: "item", code: "fendragonbcs:pocket-sturdy-middle", quantity: 1 },
+		},	
+		width: 2,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-sturdy-flat", quantity: 1 }
+	},
+	{//
+	//Крафт СУПЕР рюкзака МІЦНИЙ",	
+		ingredientPattern: "SKL,BR_",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },			
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-flat", quantity: 1, returnedStack: { type: "block", code: "game:clutter", attributes: { type: "lantern/ground1" }, quantity: 1 } },
+			"B": { type: "item", code: "fendragonbcs:pocket-sturdy-big", quantity: 1 },
+
+			"L": { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/on/gas-floor2" }, quantity: 1 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-sturdy-super", quantity: 1 }
+	},
+	{//
+	//Крафт МЕГА рюкзака МІЦНИЙ",	
+		ingredientPattern: "SK_,_RB",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-super", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:pocket-sturdy-big", quantity: 1 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-sturdy-mega", quantity: 1 }
+	},
+	{//
+	//Крафт УЛЬТРА рюкзака МІЦНИЙ",	
+		ingredientPattern: "SKL,_R_,MBM",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-mega", quantity: 1, returnedStack: { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/on/gas-floor2" }, quantity: 1 } },
+			"M": { type: "item", code: "fendragonbcs:pocket-sturdy-mini", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:pocket-sturdy-big", quantity: 1 },
+			
+			"L": { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/off/lumi-pipe-h-lamp" }, quantity: 1 },
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-sturdy-ultra", quantity: 1 }
+	},
+]

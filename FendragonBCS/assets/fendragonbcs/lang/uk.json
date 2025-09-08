@@ -1,6 +1,9 @@
 {
 	"game:tabname-FendragonBCS": "FendragonBCS",
+	"hotkey-togglebackpacklight": "Підсвітка рюкзака: Увімк/Вимк",
 //Міні-рюкзак	
+	"itemdesc-fbcs-*-*-mini": "Невеликий <font color=\"#A6ACAF\">міні-рюкзак<\/font> для ваших речей.",	
+	//Шкіра
 	"item-fbcs-shkira-copper-mini": "Шкіряний міні-рюкзак (обладнання з міді)",
 	"item-fbcs-shkira-tinbronze-mini": "Шкіряний міні-рюкзак (обладнання з бринзи)",
 	"item-fbcs-shkira-bismuthbronze-mini": "Шкіряний міні-рюкзак (обладнання з вісм.бринзи)",
@@ -10,7 +13,7 @@
 	"item-fbcs-shkira-iron-mini": "Шкіряний міні-рюкзак (обладнання з заліза)",
 	"item-fbcs-shkira-meteoriciron-mini": "Шкіряний міні-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-shkira-steel-mini": "Шкіряний міні-рюкзак (обладнання з сталі)",
-"itemdesc-fbcs-*-*-mini": "Невеликий <font color=\"#A6ACAF\">міні-рюкзак<\/font> для ваших речей.",	
+	//Полотно
 	"item-fbcs-polotno-copper-mini": "Лляний міні-рюкзак (обладнання з міді)",
 	"item-fbcs-polotno-tinbronze-mini": "Лляний міні-рюкзак (обладнання з бринзи)",
 	"item-fbcs-polotno-bismuthbronze-mini": "Лляний міні-рюкзак (обладнання з вісм.бринзи)",
@@ -20,7 +23,19 @@
 	"item-fbcs-polotno-iron-mini": "Лляний міні-рюкзак (обладнання з заліза)",
 	"item-fbcs-polotno-meteoriciron-mini": "Лляний міні-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-polotno-steel-mini": "Лляний міні-рюкзак (обладнання з сталі)",
+	//Міцна шкіра
+	"item-fbcs-sturdy-copper-mini": "Міцний міні-рюкзак (обладнання з міді)",
+	"item-fbcs-sturdy-tinbronze-mini": "Міцний міні-рюкзак (обладнання з бринзи)",
+	"item-fbcs-sturdy-bismuthbronze-mini": "Міцний міні-рюкзак (обладнання з вісм.бринзи)",
+	"item-fbcs-sturdy-blackbronze-mini": "Міцний міні-рюкзак (обладнання з чорн.бринзи)",
+	"item-fbcs-sturdy-gold-mini": "Міцний міні-рюкзак (обладнання з золота)",
+	"item-fbcs-sturdy-silver-mini": "Міцний міні-рюкзак (обладнання з срібла)",
+	"item-fbcs-sturdy-iron-mini": "Міцний міні-рюкзак (обладнання з заліза)",
+	"item-fbcs-sturdy-meteoriciron-mini": "Міцний міні-рюкзак (обладнання з мет.заліза)",
+	"item-fbcs-sturdy-steel-mini": "Міцний міні-рюкзак (обладнання з сталі)",
 //Високий-рюкзак
+	"itemdesc-fbcs-*-*-tall": "<font color=\"#28B463\">Високий рюкзак<\/font> з додатковою кишенею зверху, кайлом, сокирою й ліхтарем.",
+	//Шкіра
 	"item-fbcs-shkira-copper-tall": "Шкіряний високий-рюкзак (обладнання з міді)",
 	"item-fbcs-shkira-tinbronze-tall": "Шкіряний високий-рюкзак (обладнання з бринзи)",
 	"item-fbcs-shkira-bismuthbronze-tall": "Шкіряний високий-рюкзак (обладнання з вісм.бринзи)",
@@ -30,7 +45,7 @@
 	"item-fbcs-shkira-iron-tall": "Шкіряний високий-рюкзак (обладнання з заліза)",
 	"item-fbcs-shkira-meteoriciron-tall": "Шкіряний високий-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-shkira-steel-tall": "Шкіряний високий-рюкзак (обладнання з сталі)",
-"itemdesc-fbcs-*-*-tall": "<font color=\"#28B463\">Високий рюкзак<\/font> з додатковою кишенею зверху, кайлом, сокирою й ліхтарем.",	
+	//Полотно
 	"item-fbcs-polotno-copper-tall": "Лляний високий-рюкзак (обладнання з міді)",
 	"item-fbcs-polotno-tinbronze-tall": "Лляний високий-рюкзак (обладнання з бринзи)",
 	"item-fbcs-polotno-bismuthbronze-tall": "Лляний високий-рюкзак (обладнання з вісм.бринзи)",
@@ -40,7 +55,19 @@
 	"item-fbcs-polotno-iron-tall": "Лляний високий-рюкзак (обладнання з заліза)",
 	"item-fbcs-polotno-meteoriciron-tall": "Лляний високий-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-polotno-steel-tall": "Лляний високий-рюкзак (обладнання з сталі)",
+	//Міцна шкіра
+	"item-fbcs-sturdy-copper-tall": "Міцний високий-рюкзак (обладнання з міді)",
+	"item-fbcs-sturdy-tinbronze-tall": "Міцний високий-рюкзак (обладнання з бринзи)",
+	"item-fbcs-sturdy-bismuthbronze-tall": "Міцний високий-рюкзак (обладнання з вісм.бринзи)",
+	"item-fbcs-sturdy-blackbronze-tall": "Міцний високий-рюкзак (обладнання з чорн.бринзи)",
+	"item-fbcs-sturdy-gold-tall": "Міцний високий-рюкзак (обладнання з золота)",
+	"item-fbcs-sturdy-silver-tall": "Міцний високий-рюкзак (обладнання з срібла)",
+	"item-fbcs-sturdy-iron-tall": "Міцний високий-рюкзак (обладнання з заліза)",
+	"item-fbcs-sturdy-meteoriciron-tall": "Міцний високий-рюкзак (обладнання з мет.заліза)",
+	"item-fbcs-sturdy-steel-tall": "Міцний високий-рюкзак (обладнання з сталі)",
 //Базовий-рюкзак	
+	"itemdesc-fbcs-*-*-basic": "<font color=\"#3498DB\">Базовий рюкзак<\/font> з двума додатковими кишенями.",
+	//Шкіра
 	"item-fbcs-shkira-copper-basic": "Шкіряний базовий-рюкзак (обладнання з міді)",
 	"item-fbcs-shkira-tinbronze-basic": "Шкіряний базовий-рюкзак (обладнання з бринзи)",
 	"item-fbcs-shkira-bismuthbronze-basic": "Шкіряний базовий-рюкзак (обладнання з вісм.бринзи)",
@@ -50,7 +77,7 @@
 	"item-fbcs-shkira-iron-basic": "Шкіряний базовий-рюкзак (обладнання з заліза)",
 	"item-fbcs-shkira-meteoriciron-basic": "Шкіряний базовий-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-shkira-steel-basic": "Шкіряний базовий-рюкзак (обладнання з сталі)",
-"itemdesc-fbcs-*-*-basic": "<font color=\"#3498DB\">Базовий рюкзак<\/font> з двума додатковими кишенями.",	
+	//Полотно
 	"item-fbcs-polotno-copper-basic": "Лляний базовий-рюкзак (обладнання з міді)",
 	"item-fbcs-polotno-tinbronze-basic": "Лляний базовий-рюкзак (обладнання з бринзи)",
 	"item-fbcs-polotno-bismuthbronze-basic": "Лляний базовий-рюкзак (обладнання з вісм.бринзи)",
@@ -60,7 +87,19 @@
 	"item-fbcs-polotno-iron-basic": "Лляний базовий-рюкзак (обладнання з заліза)",
 	"item-fbcs-polotno-meteoriciron-basic": "Лляний базовий-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-polotno-steel-basic": "Лляний базовий-рюкзак (обладнання з сталі)",
+	//Міцна шкіра
+	"item-fbcs-sturdy-copper-basic": "Міцний базовий-рюкзак (обладнання з міді)",
+	"item-fbcs-sturdy-tinbronze-basic": "Міцний базовий-рюкзак (обладнання з бринзи)",
+	"item-fbcs-sturdy-bismuthbronze-basic": "Міцний базовий-рюкзак (обладнання з вісм.бринзи)",
+	"item-fbcs-sturdy-blackbronze-basic": "Міцний базовий-рюкзак (обладнання з чорн.бринзи)",
+	"item-fbcs-sturdy-gold-basic": "Міцний базовий-рюкзак (обладнання з золота)",
+	"item-fbcs-sturdy-silver-basic": "Міцний базовий-рюкзак (обладнання з срібла)",
+	"item-fbcs-sturdy-iron-basic": "Міцний базовий-рюкзак (обладнання з заліза)",
+	"item-fbcs-sturdy-meteoriciron-basic": "Міцний базовий-рюкзак (обладнання з мет.заліза)",
+	"item-fbcs-sturdy-steel-basic": "Міцний базовий-рюкзак (обладнання з сталі)",
 //Супер-рюкзак	
+	"itemdesc-fbcs-*-*-super": "<font color=\"#BB8FCE\">Супер рюкзак<\/font> з трьома додатковими кишенями.",
+	//Шкіра
 	"item-fbcs-shkira-copper-super": "Шкіряний супер-рюкзак (обладнання з міді)",
 	"item-fbcs-shkira-tinbronze-super": "Шкіряний супер-рюкзак (обладнання з бринзи)",
 	"item-fbcs-shkira-bismuthbronze-super": "Шкіряний супер-рюкзак (обладнання з вісм.бринзи)",
@@ -70,7 +109,7 @@
 	"item-fbcs-shkira-iron-super": "Шкіряний супер-рюкзак (обладнання з заліза)",
 	"item-fbcs-shkira-meteoriciron-super": "Шкіряний супер-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-shkira-steel-super": "Шкіряний супер-рюкзак (обладнання з сталі)",
-"itemdesc-fbcs-*-*-super": "<font color=\"#BB8FCE\">Супер рюкзак<\/font> з трьома додатковими кишенями.",
+	//Полотно
 	"item-fbcs-polotno-copper-super": "Лляний супер-рюкзак (обладнання з міді)",
 	"item-fbcs-polotno-tinbronze-super": "Лляний супер-рюкзак (обладнання з бринзи)",
 	"item-fbcs-polotno-bismuthbronze-super": "Лляний супер-рюкзак (обладнання з вісм.бринзи)",
@@ -80,7 +119,19 @@
 	"item-fbcs-polotno-iron-super": "Лляний супер-рюкзак (обладнання з заліза)",
 	"item-fbcs-polotno-meteoriciron-super": "Лляний супер-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-polotno-steel-super": "Лляний супер-рюкзак (обладнання з сталі)",
+	//Міцна шкіра
+	"item-fbcs-sturdy-copper-super": "Міцний супер-рюкзак (обладнання з міді)",
+	"item-fbcs-sturdy-tinbronze-super": "Міцний супер-рюкзак (обладнання з бринзи)",
+	"item-fbcs-sturdy-bismuthbronze-super": "Міцний супер-рюкзак (обладнання з вісм.бринзи)",
+	"item-fbcs-sturdy-blackbronze-super": "Міцний супер-рюкзак (обладнання з чорн.бринзи)",
+	"item-fbcs-sturdy-gold-super": "Міцний супер-рюкзак (обладнання з золота)",
+	"item-fbcs-sturdy-silver-super": "Міцний супер-рюкзак (обладнання з срібла)",
+	"item-fbcs-sturdy-iron-super": "Міцний супер-рюкзак (обладнання з заліза)",
+	"item-fbcs-sturdy-meteoriciron-super": "Міцний супер-рюкзак (обладнання з мет.заліза)",
+	"item-fbcs-sturdy-steel-super": "Міцний супер-рюкзак (обладнання з сталі)",
 //Мега-рюкзак	
+	"itemdesc-fbcs-*-*-mega": "<font color=\"#EC7063\">Мега рюкзак<\/font> з чотирма додатковими кишенями та місцем для кирки, сокири та ліхтаря.",
+	//Шкіра
 	"item-fbcs-shkira-copper-mega": "Шкіряний мега-рюкзак (обладнання з міді)",
 	"item-fbcs-shkira-tinbronze-mega": "Шкіряний мега-рюкзак (обладнання з бринзи)",
 	"item-fbcs-shkira-bismuthbronze-mega": "Шкіряний мега-рюкзак (обладнання з вісм.бринзи)",
@@ -90,7 +141,7 @@
 	"item-fbcs-shkira-iron-mega": "Шкіряний мега-рюкзак (обладнання з заліза)",
 	"item-fbcs-shkira-meteoriciron-mega": "Шкіряний мега-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-shkira-steel-mega": "Шкіряний мега-рюкзак (обладнання з сталі)",
-"itemdesc-fbcs-*-*-mega": "<font color=\"#EC7063\">Мега рюкзак<\/font> з трьома додатковими кишенями.",
+	//Полотно
 	"item-fbcs-polotno-copper-mega": "Лляний мега-рюкзак (обладнання з міді)",
 	"item-fbcs-polotno-tinbronze-mega": "Лляний мега-рюкзак (обладнання з бринзи)",
 	"item-fbcs-polotno-bismuthbronze-mega": "Лляний мега-рюкзак (обладнання з вісм.бринзи)",
@@ -100,7 +151,19 @@
 	"item-fbcs-polotno-iron-mega": "Лляний мега-рюкзак (обладнання з заліза)",
 	"item-fbcs-polotno-meteoriciron-mega": "Лляний мега-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-polotno-steel-mega": "Лляний мега-рюкзак (обладнання з сталі)",
+	//Міцна шкіра
+	"item-fbcs-sturdy-copper-mega": "Міцний мега-рюкзак (обладнання з міді)",
+	"item-fbcs-sturdy-tinbronze-mega": "Міцний мега-рюкзак (обладнання з бринзи)",
+	"item-fbcs-sturdy-bismuthbronze-mega": "Міцний мега-рюкзак (обладнання з вісм.бринзи)",
+	"item-fbcs-sturdy-blackbronze-mega": "Міцний мега-рюкзак (обладнання з чорн.бринзи)",
+	"item-fbcs-sturdy-gold-mega": "Міцний мега-рюкзак (обладнання з золота)",
+	"item-fbcs-sturdy-silver-mega": "Міцний мега-рюкзак (обладнання з срібла)",
+	"item-fbcs-sturdy-iron-mega": "Міцний мега-рюкзак (обладнання з заліза)",
+	"item-fbcs-sturdy-meteoriciron-mega": "Міцний мега-рюкзак (обладнання з мет.заліза)",
+	"item-fbcs-sturdy-steel-mega": "Міцний мега-рюкзак (обладнання з сталі)",	
 //Ультра-рюкзак	
+	"itemdesc-fbcs-*-*-ultra": "<font color=\"#EB984E\">Ультра рюкзак<\/font> з чотирма додатковими кишенями й деокративною поличкою з обладнанням.",
+	//Шкіра
 	"item-fbcs-shkira-copper-ultra": "Шкіряний ультра-рюкзак (обладнання з міді)",
 	"item-fbcs-shkira-tinbronze-ultra": "Шкіряний ультра-рюкзак (обладнання з бринзи)",
 	"item-fbcs-shkira-bismuthbronze-ultra": "Шкіряний ультра-рюкзак (обладнання з вісм.бринзи)",
@@ -110,7 +173,7 @@
 	"item-fbcs-shkira-iron-ultra": "Шкіряний ультра-рюкзак (обладнання з заліза)",
 	"item-fbcs-shkira-meteoriciron-ultra": "Шкіряний ультра-рюкзак (обладнання з мет.заліза)",
 	"item-fbcs-shkira-steel-ultra": "Шкіряний ультра-рюкзак (обладнання з сталі)",
-"itemdesc-fbcs-*-*-ultra": "<font color=\"#EB984E\">Ультра рюкзак<\/font> з чотирма додатковими кишенями й деокративною поличкою з обладнанням.",
+	//Полотно
 	"item-fbcs-polotno-copper-ultra": "Лляний ультра-рюкзак (обладнання з міді)",
 	"item-fbcs-polotno-tinbronze-ultra": "Лляний ультра-рюкзак (обладнання з бринзи)",
 	"item-fbcs-polotno-bismuthbronze-ultra": "Лляний ультра-рюкзак (обладнання з вісм.бринзи)",
@@ -119,5 +182,15 @@
 	"item-fbcs-polotno-silver-ultra": "Лляний ультра-рюкзак (обладнання з срібла)",
 	"item-fbcs-polotno-iron-ultra": "Лляний ультра-рюкзак (обладнання з заліза)",
 	"item-fbcs-polotno-meteoriciron-ultra": "Лляний ультра-рюкзак (обладнання з мет.заліза)",
-	"item-fbcs-polotno-steel-ultra": "Лляний ультра-рюкзак (обладнання з сталі)"
+	"item-fbcs-polotno-steel-ultra": "Лляний ультра-рюкзак (обладнання з сталі)",
+	//Міцна шкіра
+	"item-fbcs-sturdy-copper-ultra": "Міцний ультра-рюкзак (обладнання з міді)",
+	"item-fbcs-sturdy-tinbronze-ultra": "Міцний ультра-рюкзак (обладнання з бринзи)",
+	"item-fbcs-sturdy-bismuthbronze-ultra": "Міцний ультра-рюкзак (обладнання з вісм.бринзи)",
+	"item-fbcs-sturdy-blackbronze-ultra": "Міцний ультра-рюкзак (обладнання з чорн.бринзи)",
+	"item-fbcs-sturdy-gold-ultra": "Міцний ультра-рюкзак (обладнання з золота)",
+	"item-fbcs-sturdy-silver-ultra": "Міцний ультра-рюкзак (обладнання з срібла)",
+	"item-fbcs-sturdy-iron-ultra": "Міцний ультра-рюкзак (обладнання з заліза)",
+	"item-fbcs-sturdy-meteoriciron-ultra": "Міцний ультра-рюкзак (обладнання з мет.заліза)",
+	"item-fbcs-sturdy-steel-ultra": "Міцний ультра-рюкзак (обладнання з сталі)",
 }

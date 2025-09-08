@@ -1,0 +1,53 @@
+[
+	{//0
+	//Крафт МІНІ кишені STURDY",	
+		ingredientPattern: "KOS,LCL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"S": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:hide-chromium-*", name: "variant", allowedVariants: [ "huge", "large" ], quantity: 1 },
+			
+			"O": { type: "item", code: "game:ore-olivine", quantity: 2 },
+			"C": { type: "item", code: "game:clearquartz", quantity: 2 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:pocket-sturdy-mini", quantity: 1 }
+	},
+	{//1
+	//Крафт СЕРЕДНЬОЇ кишені STURDY",	
+		ingredientPattern: "KOS,LCL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"S": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:leather-sturdy-plain", quantity: 1 },
+					
+			"O": { type: "item", code: "game:ore-lapislazuli", quantity: 2 },
+			"C": { type: "item", code: "game:clearquartz", quantity: 2 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:pocket-sturdy-middle", quantity: 1 }
+	},
+	{//2
+	//Крафт ВЕЛИКА кишені STURDY",	
+		ingredientPattern: "KOS,LCL",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"S": { type: "item", code: "game:sewingkit", quantity: 1 },
+			"L": { type: "item", code: "game:leather-sturdy-plain", quantity: 2 },
+
+			"O": { type: "item", code: "game:amethyst", quantity: 2 },
+			"C": { type: "item", code: "game:clearquartz", quantity: 2 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:pocket-sturdy-big", quantity: 1 }
+	},
+]

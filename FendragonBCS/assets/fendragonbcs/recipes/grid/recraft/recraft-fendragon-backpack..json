@@ -1,0 +1,92 @@
+[
+	{// **************************** РЮКЗАКИ РЕКРАФТ ****************************
+	//Ре-крафт ВИСОКИЙ рюкзака в МІНІ",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-*-tall", quantity: 1, name: "material", skipVariants: [ "sturdy" ],
+				returnedStack: { type: "item", code: "fendragonbcs:pocket-{material}-mini", quantity: 3 } 
+			},
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-{material}-mini", quantity: 1 }
+	},
+	{//
+	//Ре-крафт БАЗОВИЙ рюкзака в ВИСОКИЙ",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-*-basic", quantity: 1, name: "material", skipVariants: [ "sturdy" ],
+				returnedStack: { type: "item", code: "fendragonbcs:pocket-{material}-middle", quantity: 1 } 
+			},
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-{material}-tall", quantity: 1 }
+	},
+	{//
+	//Ре-крафт ШИРОКИЙ рюкзака в БАЗОВИЙ",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },	
+			"R": { type: "item", code: "fendragonbcs:backpack-*-flat", quantity: 1, name: "material",
+				returnedStack: { type: "item", code: "fendragonbcs:pocket-{material}-middle", quantity: 1 } 
+			},
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-{material}-basic", quantity: 1 }
+	},
+	{//
+	//Ре-крафт СУПЕР рюкзака в ШИРОКИЙ",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-*-super", quantity: 1, name: "material",
+				returnedStack: { type: "item", code: "fendragonbcs:pocket-{material}-big", quantity: 1 } 
+			},
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-{material}-flat", quantity: 1 }
+	},
+	{//
+	//Ре-крафт МЕГА рюкзака в СУПЕР",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },		
+			"R": { type: "item", code: "fendragonbcs:backpack-*-mega", quantity: 1, name: "material",
+				returnedStack: { type: "item", code: "fendragonbcs:pocket-{material}-big", quantity: 1 } 
+			},
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-{material}-super", quantity: 1 }
+	},
+	{//
+	//Ре-крафт УЛЬТРА рюкзака в МЕГА",	
+		ingredientPattern: "KR",
+		enabled: true,
+		ingredients: {
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"R": { type: "item", code: "fendragonbcs:backpack-*-ultra", quantity: 1, name: "material", 
+				returnedStack: { type: "item", code: "fendragonbcs:pocket-{material}-big", quantity: 1 } 
+			},
+		},	
+		width: 1,
+		height: 2,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-{material}-mega", quantity: 1 },
+	},
+]

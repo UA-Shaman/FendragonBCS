@@ -1,8 +1,7 @@
 {
 	"editor": {
-		"backDropShape": "game:entity/humanoid/seraph",
-		"collapsedPaths": "Root/Backpack/hljastikL/dirka5,Root/Backpack/KarmanPered/hljastikR14,Root/Backpack/karmanPravBikVerx/left lower shelf,Root/Backpack/karmanLivBikVerx2,Root/Backpack/hljastikL/dirka7,Root/Backpack/karmanPered/Kutik3,Root/Backpack/KarmanVerx/KarmanNigniLivo,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/zamok36/zamok41,Root/Backpack/hljastikL/dirka1,Root/Backpack/OsnovaRukzaka/KutikiOsnovaZadniL,Root/Backpack/Kailo/kriplenniaNizKailo,Root/Backpack/hljastikL/dirka3,Root/Backpack/hljastikL,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35,Root/Backpack/KarmanVerx/krishka4/hljastikL2/dirka32,Root/Backpack/KarmanPraviVerx2/krishka11/hljastikR12,Root/Backpack/hljastikL/dirka9,Root/Backpack/KarmanPered/krishka3/hljastikL3,Root/Backpack/KarmanPered/krishka3/hljastikL1,Root/GeoMolotok/segmentGeo1,Root/Backpack/hljastikR,Root/Backpack/KarmanLiviVerx2/krishka10/ZnachokOsnova7/zna4ok7,Root/Backpack/Nig/kriplenniaNig,Root/Backpack/Lantern,Root/Backpack/Gas-lamp/shroud,Root/Backpack/karmanPravBikNiz/krishka13,Root/Backpack/karmanPravBikNiz/krishka14,Root/Backpack/KarmanVerx/hljastikR1,Root/Backpack/KarmanPravNiz2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishkaOsnovaPered,Root/Backpack/Sokira/kriplenniaNizSokira,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova/ZnachokStorona3,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka139,Root/Backpack/Lantern/kriplenniaNizLixtar,Root/Backpack/karmanPravBikNiz,Root/Backpack/KarmanVerx/KarmanVerxPravi/krishka12/hljastikR10,Root/Backpack/OsnovaRukzaka/OsnovaVerx,Root/Backpack/KarmanPered/ZnachokOsnova,Root/Backpack/KarmanVerx/KarmanVerxPravi/krishka12/hljastikR11,Root/origin,Root/Backpack/KarmanPered,Root/Backpack/Kailo,Root/hljastikR/dirka17,Root/Backpack/KarmanPered2/ZnachokOsnova2,Root/Backpack/KarmanPravNiz2/krishka9/hljastikR7,Root/hljastikR/dirka19,Root/Backpack/MasloLixtar,Root/Backpack/Fakel/kriplenniaMasloLixtar,Root/Backpack/hljastikL/zamok,Root/Backpack/KarmanPravNiz2/Kutik11,Root/Backpack/rukzOsnova/krishka2,Root/Backpack/OsnovaVerx/Shesternja,Root/TorchHolder,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/Kutik27,Root/Backpack/KarmanLiviVerx2/krishka10/ZnachokOsnova7/ZnachokStorona8,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka147,Root/hljastikR11,Root/Gas-lamp,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR15,Root/Backpack/rukzOsnovaVerx/krishkaVerx,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka149,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/dirka31,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR16,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/zamok36,Root/Backpack/karmanPered/hljastikL2/zamok19,Root/Backpack/KarmanPered2/hljastikR1,Root/Backpack/Sokira/socket/Bladehorn1,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishkaVerx,Root/Backpack/karmanPered/hljastikL2/dirkaPeredR,Root/Backpack/Gas-lamp/base02/firestarter-arm,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka141,Root/hljastikR/dirka11,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka143,Root/hljastikR/dirka13,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka145,Root/hljastikR/dirka15,Root/Backpack/rukzOsnovaVerx/krishkaVerxSeredina,Root/Backpack/KarmanVerx/KarmanVerxLevi/krishka13/hljastikL4,Root/Backpack/jonas-lamp/W,Root/hljastikR/zamok5,Root/Backpack/karmanLivBikSeredina,Root/Backpack/jonas-lamp/E,Root/Backpack/OsnovaVerx,Root/Shesternja,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/dirka42,Root/Backpack/KarmanVerx/krishka4/hljastikL2/hljastikR1,Root/Backpack/Fakel/Torch/handle 101,Root/Backpack/OsnovaRukzaka/OsnovaVerx/KutikiOsnovaVerxTop,Root/Backpack/KarmanVerx/krishka4/hljastikL2/zamok22,Root/Backpack/KarmanLiviNiz,Root/Backpack/karmanPered/hljastikL2/dirka29,Root/Backpack/KarmanVerxPravi/krishka12/hljastikR10,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka151,Root/Backpack/KarmanNigniVeliki/krishka15,Root/Backpack/OsnovaRukzaka/OsnovaVerx/KutikiOsnovaVerxDown,Root/hljastikR8,Root/Backpack/karmanPered/hljastikL2/dirka21,Root/Backpack/karmanPered,Root/Backpack/KarmanPravNiz/krishka7,Root/Backpack/karmanLivBikVerx/krishka16,Root/Backpack/karmanPered/hljastikL2/dirka25,Root/Backpack/karmanLivBikVerx/krishka15,Root/Backpack/karmanPered/hljastikL2/dirka23,Root/KutikOsnovi1,Root/Backpack/OsnovaVerx/krishkaOsnovaPered,Root/Backpack/Trimach2,Root/Backpack/rukzOsnovaVerx,Root/Backpack/KarmanPered/ZnachokOsnova3,Root/Backpack/KarmanPered/krishka3/ZnachokOsnova,Root/Backpack/Fakel,Root/dirka42,Root/Backpack/KarmanVerxPravi,Root/Backpack/KarmanVerx/KarmanVerxLevi,Root/Backpack/krishkaVerxSeredina,Root/Backpack/rukzOsnova/krishka,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/dirka17,Root/Backpack/Gas-lamp/base02,Root/Backpack/karmanPravBikVerx2,Root/Backpack/karmanVerx/hljastikL6,Root/Backpack/OsnovaRukzaka/KutikіOsnovi,Root/Backpack/KarmanVerxPravi/krishka12/ZnachokOsnova9,Root/Backpack/Kailo/segment 1,Root/Backpack/KarmanPraviVerx/krishka11/hljastikR9/dirkaPeredL8,Root/Backpack/OsnovaRukzaka/KarmanPered,Root/Backpack/Sokira/socket/Bladebeard1,Root/Backpack/Sokira/handle 1,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka135,Root/Backpack/KarmanPered2/krishka4,Root/Backpack/OsnovaRukzaka,Root/Backpack/jonas-lamp/W-stand,Root/Backpack/karmanPravBikVerx/hljastikL7,Root/krishka2,Root/Backpack/KarmanLiviVerx,Root/Backpack/KarmanPered/hljastikL1/zamok15/zamok19,Root/Backpack/karmanPered/hljastikL2/dirkaPeredL,Root/Backpack/OsnovaVerx/KutikiOsnovaVerx,Root/Backpack/KarmanPraviVerx,Root/Backpack/Gas-lamp/base02/burner,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova/zna4ok3,Root/Backpack/KarmanPeredNiz/krishka15/hljastikR13,Root/Backpack/KarmanPeredNiz/krishka15/hljastikR14,Root/Backpack/KarmanVerx/krishka4/hljastikL2/ZnachokOsnova2,Root/Backpack/OsnovaRukzaka/KutikiOsnovaPeredL,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka55,Root/Backpack/Gas-lamp/base02/flare,Root/Backpack/KarmanVerx/Kutik5,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/dirkaPeredL2,Root/Backpack/KarmanPravNiz/krishka7/hljastikL4,Root/GeoMolotok,Root/Backpack/KarmanVerxPravi/Kutik17,Root/Backpack/Gas-lamp/Trimach2,Root/Backpack/MasloLixtar/kriplenniaMasloLixtar,Root/Backpack/KarmanPravNiz,Root/Backpack/KarmanLiviVerx2/Kutik13,Root/Backpack/KarmanNigniVeliki/krishka15/hljastikL1,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/zamok12,Root/Backpack/krishka2,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/zamok10,Root/Backpack/KarmanVerxLevi,Root/Backpack/zna4ok,Root/dirka31,Root/Backpack/KarmanPravVerx/krishka8,Root/Backpack/Gas-lamp/base3/firestarter-arm2,Root/Backpack/karmanLivBikVerx/krishka8,Root/Backpack/karmanLivBikVerx/krishka7,Root/Backpack/OsnovaRukzaka/krishkaVerx,Root/ZnachokOsnova7,Root/Backpack/karmanLivBikSeredina/hljastikL5,Root/Backpack/OsnovaRukzaka/OsnovaVerx/ZnachokOsnova7/ZnachokStorona8,Root/Backpack/karmanLivBikSeredina/krishka8,Root/Backpack/karmanLivBikSeredina/krishka7,Root/Backpack/Gas-lamp,Root/Backpack/KarmanNigniPravo,Root/Backpack/Lantern/candle,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR15/zamok134,Root/GeoMolotok/kriplenniaVerxGeoMolotok,Root/Backpack/karmanLivBikNiz/hljastikL4,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/zamok37,Root/Backpack/karmanLivBikNiz/hljastikL3,Root/Backpack/karmanLivBikNiz/Kutik1,Root/Backpack/OsnovaRukzaka/ZnachokOsnova3,Root/Backpack/MasloLixtar/trimachOsnova,Root/Backpack/karmanLivBikVerx,Root/Backpack/karmanPered/hljastikL2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/dirka42,Root/Backpack/KarmanVerx,Root/Backpack/KarmanPered2/Kutik5,Root/Backpack/Sokira/socket/Blademiddle,Root/Backpack/rukzOsnovaNiz,Root/Backpack/KarmanPraviVerx2/krishka11/ZnachokOsnova8,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo/krishka17/hljastikR18,Root/Backpack/OsnovaVerx/KutikiOsnovaVerxTop,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo/krishka17/hljastikR17,Root/Backpack/karmanPered/hljastikL2/dirka161,Root/Backpack/karmanPravBikNiz/left lower shelf2,Root/Backpack/KarmanPered2/hljastikL2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr,Root/Backpack/KarmanPered2/hljastikL3,Root/Backpack/Lantern/kriplenniaVerxLixtar,Root/Backpack/OsnovaRukzaka/Stika R mini,Root/Backpack/KarmanPraviVerx2/krishka11/hljastikR9,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova,Root/Backpack/KarmanVerxLevi/Kutik19,Root/Backpack/Lantern/holder 2,Root/Backpack/GeoMolotok/segmentGeo1,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/zamok10,Root/Backpack/karmanVerx/krishka10,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/dirka31,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/zamok12,Root/Backpack/Sokira,Root/Backpack/jonas-lamp,Root/Backpack/karmanPravBikVerx/hljastikL7/zamok51,Root/Backpack/OsnovaRukzaka/ZnachokOsnova3/ZnachokStorona4,Root/Backpack/Gas-lamp/base3/burner2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishkaVerxSeredina,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikR,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikL,Root/Backpack/Sokira/kriplenniaNizLixtar,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/dirka17,Root/Backpack/karmanPravBikVerx/hljastikL7/zamok58,Root/Backpack/rukzOsnovaVerx/krishka2,Root/dirka19,Root/Backpack/KarmanLiviVerx/Kutik9,Root/Backpack/jonas-lamp/glass,Root/dirka17,Root/hljastikVerxKrishkaR2,Root/Backpack/Shesternja,Root/Backpack/Sokira/socket,Root/Backpack/hljastikR13,Root/Backpack/Kailo/kriplenniaVerxGeoMolotok,Root/krishkaOsnovaPered,Root/Backpack/hljastikL/zamok5,Root/Backpack/KarmanPraviVerx3,Root/Backpack/KarmanPraviVerx2,Root/Backpack/KarmanPraviVerx1,Root/Backpack/karmanPravBikVerx/hljastikL9/zamok68,Root/Backpack/KarmanVerxLevi/krishka13/hljastikR12,Root/Backpack/karmanPravBikVerx/hljastikL9/zamok64,Root/Backpack/KarmanPraviVerx/krishka11/hljastikR12,Root/Backpack/KarmanPered/hljastikL2,Root/Backpack/KarmanPered/hljastikL1,Root/Backpack/KarmanNigniVeliki/krishka15/hljastikR13,Root/Backpack/KarmanVerx/KarmanVerxPravi,Root/Backpack/KarmanNigniVeliki/krishka15/hljastikR14,Root/hljastikVerxKrishkaR,Root/Backpack/KarmanPravNiz2/krishka9/ZnachokOsnova6,Root/Backpack/KarmanVerxLevi/krishka13/hljastikR13,Root/Backpack/karmanLivBikVerx/hljastikL10,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR16/dirkaPeredL15,Root/Backpack/karmanLivBikVerx/hljastikL11,Root/Backpack/KarmanVerxLevi/krishka13/hljastikL4/dirka80,Root/Backpack/KarmanPered/krishka3,Root/Backpack/KarmanPered/hljastikL1/zamok15,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35/dirka178,Root/Backpack/KarmanPeredNiz/krishka15,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo/Kutik29,Root/Backpack/KarmanPered2/hljastikL2/zamok22,Root/Backpack/GeoMolotok/kriplenniaVerxGeoMolotok,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35/dirka59,Root/Backpack/karmanLivBikNiz,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL4,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL2,Root/Backpack/krishkaVerx,Root/Backpack/KarmanNigniVeliki,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL8,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL6,Root/Backpack/Lantern/kriplenniaMasloLixtar,Root/Backpack/KarmanVerx/hljastikL3,Root/Backpack/KarmanVerx/hljastikL2,Root/Backpack/jonas-lamp/Trimach01,Root/krishkaOsnovaPered/krishka5,Root/Backpack/OsnovaVerx/KutikiOsnovaVerxDown,Root/Backpack/karmanPravBikVerx/krishka12,Root/krishkaOsnovaPered/krishka6,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova7,Root/Backpack/karmanPravBikVerx/krishka11,Root/Backpack/KarmanPraviVerx/krishka11/hljastikR9/zamok82,Root/hljastikL,Root/Backpack/KarmanPeredNiz1,Root/Backpack/trimachOsnova,Root/Backpack/Gas-lamp/shroud2,Root/Backpack/karmanPered/ZnachokOsnova2,Root/Backpack/Glechik,Root/Backpack/karmanPravBikVerx,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35/dirka180,Root/Backpack/OsnovaRukzaka/OsnovaVerx/Shesternja,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikR2,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR15/dirkaPeredL14,Root/Backpack/KarmanNigniVeliki/Kutik23,Root/Backpack/KarmanVerx/KarmanVerxLevi/krishka13,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/dirkaPeredR2,Root/GeoMolotok/segment 1,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishka2,Root/Backpack/KarmanLiviVerx2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR,Root/Backpack/Nig,Root/Backpack/KarmanVerx/KarmanVerxLevi/Kutik19,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaL,Root/Backpack/Sokira/kriplenniaNizKailo,Root/Backpack/OsnovaVerx/krishka2,Root/Backpack/Gas-lamp/base3,Root/Backpack/KarmanNigniVeliki/Kutik25,Root/Backpack/MasloLixtar/trimachFixator3,Root/Backpack/MasloLixtar/trimachFixator1,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka93,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka91,Root/Backpack/Sokira/kriplenniaNiz,Root/Backpack/KarmanPered/ZnachokOsnova/zna4ok,Root/Backpack/jonas-lamp/kriplenniaFakel3,Root/Backpack/Kailo/kriplenniaVerzKailo,Root/Backpack/KarmanLiviVerx/krishka8/hljastikR6,Root/Backpack/KarmanPered2/hljastikL2/zamok22/zamok25,Root/Backpack/KarmanLiviVerx/krishka8/hljastikR5,Root/Backpack/Lantern/kriplenniaFakel,Root/Backpack/karmanVerx/krishka9,Root/Backpack/karmanPered/krishka4,Root/Backpack/KarmanPravNiz/krishka7/hljastikR4,Root/Backpack/karmanPered/krishka3,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka85,Root/Backpack/OsnovaVerx/hljastikR,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR,Root/Backpack/jonas-lamp/E-stand,Root/Backpack/KarmanNigniLivo,Root/Backpack/KarmanLiviNiz/krishka9/hljastikL4,Root/Backpack/KarmanPeredNiz/krishka15/ZnachokOsnova10,Root/Backpack/KarmanPered2/hljastikL2/dirkaPeredR2,Root/Backpack/OsnovaVerx/hljastikL,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka89,Root/Backpack/Sokira/kriplenniaVerxSokira,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka87,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo,Root/Backpack/rukzOsnova/hljastikL,Root/Backpack/Gas-lamp/glass-D,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo,Root/Backpack/Sokira/kriplenniaVerx,Root/TorchHolder/Torch,Root/Backpack/karmanLivBikNiz/krishka6,Root/Backpack/rukzOsnova/hljastikR,Root/Backpack/karmanPered/ZnachokOsnova,Root/Backpack/karmanLivBikNiz/krishka5,Root/MasloLixtar,Root/Backpack/karmanPered/hljastikL2/dirka159,Root/Backpack/Gas-lamp/base3/flare2,Root/Backpack/jonas-lamp/Trimach2,Root/Backpack/Lantern/base2,Root/Backpack/KarmanLiviVerx2/krishka10/hljastikR7,Root/Backpack/KarmanLiviVerx2/krishka10/hljastikR8,Root/Backpack/karmanPravBikNiz/hljastikL8,Root/Backpack/karmanVerx,Root/ZnachokOsnova3/ZnachokStorona4,Root/Backpack/KarmanVerx/ZnachokOsnova2,Root/Backpack/KarmanVerx/ZnachokOsnova3,Root/Backpack/GeoMolotok,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaL",
-		"allAngles": true,
+		"collapsedPaths": "Root/Backpack/hljastikL/dirka5,Root/Backpack/KarmanPered/hljastikR14,Root/Backpack/karmanPravBikVerx/left lower shelf,Root/Backpack/karmanLivBikVerx2,Root/Backpack/hljastikL/dirka7,Root/Backpack/karmanPered/Kutik3,Root/Backpack/KarmanVerx/KarmanNigniLivo,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/zamok36/zamok41,Root/Backpack/hljastikL/dirka1,Root/Backpack/OsnovaRukzaka/KutikiOsnovaZadniL,Root/Backpack/Kailo/kriplenniaNizKailo,Root/Backpack/hljastikL/dirka3,Root/Backpack/hljastikL,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35,Root/Backpack/KarmanVerx/krishka4/hljastikL2/dirka32,Root/Backpack/KarmanPraviVerx2/krishka11/hljastikR12,Root/Backpack/hljastikL/dirka9,Root/Backpack/KarmanPered/krishka3/hljastikL3,Root/Backpack/KarmanPered/krishka3/hljastikL1,Root/GeoMolotok/segmentGeo1,Root/Backpack/hljastikR,Root/Backpack/KarmanLiviVerx2/krishka10/ZnachokOsnova7/zna4ok7,Root/Backpack/Nig/kriplenniaNig,Root/Backpack/Lantern,Root/Backpack/Gas-lamp/shroud,Root/Backpack/karmanPravBikNiz/krishka13,Root/Backpack/karmanPravBikNiz/krishka14,Root/Backpack/KarmanVerx/hljastikR1,Root/Backpack/KarmanPravNiz2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishkaOsnovaPered,Root/Backpack/Sokira/kriplenniaNizSokira,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova/ZnachokStorona3,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka139,Root/Backpack/Lantern/kriplenniaNizLixtar,Root/Backpack/karmanPravBikNiz,Root/Backpack/KarmanVerx/KarmanVerxPravi/krishka12/hljastikR10,Root/Backpack/OsnovaRukzaka/OsnovaVerx,Root/Backpack/KarmanPered/ZnachokOsnova,Root/Backpack/KarmanVerx/KarmanVerxPravi/krishka12/hljastikR11,Root/origin,Root/Backpack/KarmanPered,Root/Backpack/Kailo,Root/hljastikR/dirka17,Root/Backpack/KarmanPered2/ZnachokOsnova2,Root/Backpack/KarmanPravNiz2/krishka9/hljastikR7,Root/hljastikR/dirka19,Root/Backpack/MasloLixtar,Root/Backpack/Fakel/kriplenniaMasloLixtar,Root/Backpack/hljastikL/zamok,Root/Backpack/KarmanPravNiz2/Kutik11,Root/Backpack/rukzOsnova/krishka2,Root/Backpack/OsnovaVerx/Shesternja,Root/TorchHolder,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/Kutik27,Root/Backpack/KarmanLiviVerx2/krishka10/ZnachokOsnova7/ZnachokStorona8,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka147,Root/hljastikR11,Root/Gas-lamp,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR15,Root/Backpack/rukzOsnovaVerx/krishkaVerx,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka149,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/dirka31,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR16,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/zamok36,Root/Backpack/karmanPered/hljastikL2/zamok19,Root/Backpack/KarmanPered2/hljastikR1,Root/Backpack/Sokira/socket/Bladehorn1,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishkaVerx,Root/Backpack/karmanPered/hljastikL2/dirkaPeredR,Root/Backpack/Gas-lamp/base02/firestarter-arm,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka141,Root/hljastikR/dirka11,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka143,Root/hljastikR/dirka13,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka145,Root/hljastikR/dirka15,Root/Backpack/rukzOsnovaVerx/krishkaVerxSeredina,Root/Backpack/KarmanVerx/KarmanVerxLevi/krishka13/hljastikL4,Root/Backpack/jonas-lamp/W,Root/hljastikR/zamok5,Root/Backpack/karmanLivBikSeredina,Root/Backpack/jonas-lamp/E,Root/Backpack/OsnovaVerx,Root/Shesternja,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/dirka42,Root/Backpack/KarmanVerx/krishka4/hljastikL2/hljastikR1,Root/Backpack/Fakel/Torch/handle 101,Root/Backpack/OsnovaRukzaka/OsnovaVerx/KutikiOsnovaVerxTop,Root/Backpack/KarmanVerx/krishka4/hljastikL2/zamok22,Root/Backpack/KarmanLiviNiz,Root/Backpack/karmanPered/hljastikL2/dirka29,Root/Backpack/KarmanVerxPravi/krishka12/hljastikR10,Root/Backpack/karmanPravBikVerx/hljastikL9/dirka151,Root/Backpack/KarmanNigniVeliki/krishka15,Root/Backpack/OsnovaRukzaka/OsnovaVerx/KutikiOsnovaVerxDown,Root/hljastikR8,Root/Backpack/karmanPered/hljastikL2/dirka21,Root/Backpack/karmanPered,Root/Backpack/KarmanPravNiz/krishka7,Root/Backpack/karmanLivBikVerx/krishka16,Root/Backpack/karmanPered/hljastikL2/dirka25,Root/Backpack/karmanLivBikVerx/krishka15,Root/Backpack/karmanPered/hljastikL2/dirka23,Root/KutikOsnovi1,Root/Backpack/OsnovaVerx/krishkaOsnovaPered,Root/Backpack/Trimach2,Root/Backpack/rukzOsnovaVerx,Root/Backpack/KarmanPered/ZnachokOsnova3,Root/Backpack/KarmanPered/krishka3/ZnachokOsnova,Root/Backpack/Fakel,Root/dirka42,Root/Backpack/KarmanVerxPravi,Root/Backpack/KarmanVerx/KarmanVerxLevi,Root/Backpack/krishkaVerxSeredina,Root/Backpack/rukzOsnova/krishka,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/dirka17,Root/Backpack/Gas-lamp/base02,Root/Backpack/karmanPravBikVerx2,Root/Backpack/karmanVerx/hljastikL6,Root/Backpack/OsnovaRukzaka/KutikіOsnovi,Root/Backpack/KarmanVerxPravi/krishka12/ZnachokOsnova9,Root/Backpack/Kailo/segment 1,Root/Backpack/KarmanPraviVerx/krishka11/hljastikR9/dirkaPeredL8,Root/Backpack/OsnovaRukzaka/KarmanPered,Root/Backpack/Sokira/socket/Bladebeard1,Root/Backpack/Sokira/handle 1,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka135,Root/Backpack/KarmanPered2/krishka4,Root/Backpack/OsnovaRukzaka,Root/Backpack/jonas-lamp/W-stand,Root/Backpack/karmanPravBikVerx/hljastikL7,Root/krishka2,Root/Backpack/KarmanLiviVerx,Root/Backpack/KarmanPered/hljastikL1/zamok15/zamok19,Root/Backpack/karmanPered/hljastikL2/dirkaPeredL,Root/Backpack/OsnovaVerx/KutikiOsnovaVerx,Root/Backpack/KarmanPraviVerx,Root/Backpack/Gas-lamp/base02/burner,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova/zna4ok3,Root/Backpack/KarmanPeredNiz/krishka15/hljastikR13,Root/Backpack/KarmanPeredNiz/krishka15/hljastikR14,Root/Backpack/KarmanVerx/krishka4/hljastikL2/ZnachokOsnova2,Root/Backpack/OsnovaRukzaka/KutikiOsnovaPeredL,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka55,Root/Backpack/Gas-lamp/base02/flare,Root/Backpack/KarmanVerx/Kutik5,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/dirkaPeredL2,Root/Backpack/KarmanPravNiz/krishka7/hljastikL4,Root/GeoMolotok,Root/Backpack/KarmanVerxPravi/Kutik17,Root/Backpack/Gas-lamp/Trimach2,Root/Backpack/MasloLixtar/kriplenniaMasloLixtar,Root/Backpack/KarmanPravNiz,Root/Backpack/KarmanLiviVerx2/Kutik13,Root/Backpack/KarmanNigniVeliki/krishka15/hljastikL1,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/zamok12,Root/Backpack/krishka2,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR/zamok10,Root/Backpack/KarmanVerxLevi,Root/Backpack/zna4ok,Root/dirka31,Root/Backpack/KarmanPravVerx/krishka8,Root/Backpack/Gas-lamp/base3/firestarter-arm2,Root/Backpack/karmanLivBikVerx/krishka8,Root/Backpack/karmanLivBikVerx/krishka7,Root/Backpack/OsnovaRukzaka/krishkaVerx,Root/ZnachokOsnova7,Root/Backpack/karmanLivBikSeredina/hljastikL5,Root/Backpack/OsnovaRukzaka/OsnovaVerx/ZnachokOsnova7/ZnachokStorona8,Root/Backpack/karmanLivBikSeredina/krishka8,Root/Backpack/karmanLivBikSeredina/krishka7,Root/Backpack/Gas-lamp,Root/Backpack/KarmanNigniPravo,Root/Backpack/Lantern/candle,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR15/zamok134,Root/GeoMolotok/kriplenniaVerxGeoMolotok,Root/Backpack/karmanLivBikNiz/hljastikL4,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/zamok37,Root/Backpack/karmanLivBikNiz/hljastikL3,Root/Backpack/karmanLivBikNiz/Kutik1,Root/Backpack/OsnovaRukzaka/ZnachokOsnova3,Root/Backpack/MasloLixtar/trimachOsnova,Root/Backpack/karmanLivBikVerx,Root/Backpack/karmanPered/hljastikL2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/dirka42,Root/Backpack/KarmanVerx,Root/Backpack/KarmanPered2/Kutik5,Root/Backpack/Sokira/socket/Blademiddle,Root/Backpack/rukzOsnovaNiz,Root/Backpack/KarmanPraviVerx2/krishka11/ZnachokOsnova8,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo/krishka17/hljastikR18,Root/Backpack/OsnovaVerx/KutikiOsnovaVerxTop,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo/krishka17/hljastikR17,Root/Backpack/karmanPered/hljastikL2/dirka161,Root/Backpack/karmanPravBikNiz/left lower shelf2,Root/Backpack/KarmanPered2/hljastikL2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr,Root/Backpack/KarmanPered2/hljastikL3,Root/Backpack/Lantern/kriplenniaVerxLixtar,Root/Backpack/OsnovaRukzaka/Stika R mini,Root/Backpack/KarmanPraviVerx2/krishka11/hljastikR9,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova,Root/Backpack/KarmanVerxLevi/Kutik19,Root/Backpack/Lantern/holder 2,Root/Backpack/GeoMolotok/segmentGeo1,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/zamok10,Root/Backpack/karmanVerx/krishka10,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/dirka31,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/zamok12,Root/Backpack/Sokira,Root/Backpack/jonas-lamp,Root/Backpack/karmanPravBikVerx/hljastikL7/zamok51,Root/Backpack/OsnovaRukzaka/ZnachokOsnova3/ZnachokStorona4,Root/Backpack/Gas-lamp/base3/burner2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishkaVerxSeredina,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikR,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikL,Root/Backpack/Sokira/kriplenniaNizLixtar,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR/dirka17,Root/Backpack/karmanPravBikVerx/hljastikL7/zamok58,Root/Backpack/rukzOsnovaVerx/krishka2,Root/dirka19,Root/Backpack/KarmanLiviVerx/Kutik9,Root/Backpack/jonas-lamp/glass,Root/dirka17,Root/hljastikVerxKrishkaR2,Root/Backpack/Shesternja,Root/Backpack/Sokira/socket,Root/Backpack/hljastikR13,Root/Backpack/Kailo/kriplenniaVerxGeoMolotok,Root/krishkaOsnovaPered,Root/Backpack/hljastikL/zamok5,Root/Backpack/KarmanPraviVerx3,Root/Backpack/KarmanPraviVerx2,Root/Backpack/KarmanPraviVerx1,Root/Backpack/karmanPravBikVerx/hljastikL9/zamok68,Root/Backpack/KarmanVerxLevi/krishka13/hljastikR12,Root/Backpack/karmanPravBikVerx/hljastikL9/zamok64,Root/Backpack/KarmanPraviVerx/krishka11/hljastikR12,Root/Backpack/KarmanPered/hljastikL2,Root/Backpack/KarmanPered/hljastikL1,Root/Backpack/KarmanNigniVeliki/krishka15/hljastikR13,Root/Backpack/KarmanVerx/KarmanVerxPravi,Root/Backpack/KarmanNigniVeliki/krishka15/hljastikR14,Root/hljastikVerxKrishkaR,Root/Backpack/KarmanPravNiz2/krishka9/ZnachokOsnova6,Root/Backpack/KarmanVerxLevi/krishka13/hljastikR13,Root/Backpack/karmanLivBikVerx/hljastikL10,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR16/dirkaPeredL15,Root/Backpack/karmanLivBikVerx/hljastikL11,Root/Backpack/KarmanVerxLevi/krishka13/hljastikL4/dirka80,Root/Backpack/KarmanPered/krishka3,Root/Backpack/KarmanPered/hljastikL1/zamok15,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35/dirka178,Root/Backpack/KarmanPeredNiz/krishka15,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo/Kutik29,Root/Backpack/KarmanPered2/hljastikL2/zamok22,Root/Backpack,Root/Backpack/GeoMolotok/kriplenniaVerxGeoMolotok,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35/dirka59,Root/Backpack/karmanLivBikNiz,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL4,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL2,Root/Backpack/krishkaVerx,Root/Backpack/KarmanNigniVeliki,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL8,Root/Backpack/MasloLixtar/trimachOsnova/trimachMotuzkaBikL6,Root/Backpack/Lantern/kriplenniaMasloLixtar,Root/Backpack/KarmanVerx/hljastikL3,Root/Backpack/KarmanVerx/hljastikL2,Root/Backpack/jonas-lamp/Trimach01,Root/krishkaOsnovaPered/krishka5,Root/Backpack/OsnovaVerx/KutikiOsnovaVerxDown,Root/Backpack/karmanPravBikVerx/krishka12,Root/krishkaOsnovaPered/krishka6,Root/Backpack/KarmanNigniVeliki/krishka15/ZnachokOsnova7,Root/Backpack/karmanPravBikVerx/krishka11,Root/Backpack/KarmanPraviVerx/krishka11/hljastikR9/zamok82,Root/hljastikL,Root/Backpack/KarmanPeredNiz1,Root/Backpack/trimachOsnova,Root/Backpack/Gas-lamp/shroud2,Root/Backpack/karmanPered/ZnachokOsnova2,Root/Backpack/Glechik,Root/Backpack/karmanPravBikVerx,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxCentr/dirka35/dirka180,Root/Backpack/OsnovaRukzaka/OsnovaVerx/Shesternja,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikR2,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo/krishka16/hljastikR15/dirkaPeredL14,Root/Backpack/KarmanNigniVeliki/Kutik23,Root/Backpack/KarmanVerx/KarmanVerxLevi/krishka13,Root/Backpack/KarmanPravNiz/krishka7/hljastikL3/dirkaPeredR2,Root/GeoMolotok/segment 1,Root/Backpack/OsnovaRukzaka/OsnovaVerx/krishka2,Root/Backpack/KarmanLiviVerx2,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaR,Root/Backpack/Nig,Root/Backpack/KarmanVerx/KarmanVerxLevi/Kutik19,Root/Backpack/OsnovaRukzaka/OsnovaVerx/hljastikVerxKrishkaL,Root/Backpack/Sokira/kriplenniaNizKailo,Root/Backpack/OsnovaVerx/krishka2,Root/Backpack/Gas-lamp/base3,Root/Backpack/KarmanNigniVeliki/Kutik25,Root/Backpack/MasloLixtar/trimachFixator3,Root/Backpack/MasloLixtar/trimachFixator1,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka93,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka91,Root/Backpack/Sokira/kriplenniaNiz,Root/Backpack/KarmanPered/ZnachokOsnova/zna4ok,Root/Backpack/jonas-lamp/kriplenniaFakel3,Root/Backpack/Kailo/kriplenniaVerzKailo,Root/Backpack/KarmanLiviVerx/krishka8/hljastikR6,Root/Backpack/KarmanPered2/hljastikL2/zamok22/zamok25,Root/Backpack/KarmanLiviVerx/krishka8/hljastikR5,Root/Backpack/Lantern/kriplenniaFakel,Root/Backpack/karmanVerx/krishka9,Root/Backpack/karmanPered/krishka4,Root/Backpack/KarmanPravNiz/krishka7/hljastikR4,Root/Backpack/karmanPered/krishka3,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka85,Root/Backpack/OsnovaVerx/hljastikR,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaR,Root/Backpack/jonas-lamp/E-stand,Root/Backpack/KarmanNigniLivo,Root/Backpack/KarmanLiviNiz/krishka9/hljastikL4,Root/Backpack/KarmanPeredNiz/krishka15/ZnachokOsnova10,Root/Backpack/KarmanPered2/hljastikL2/dirkaPeredR2,Root/Backpack/OsnovaVerx/hljastikL,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka89,Root/Backpack/Sokira/kriplenniaVerxSokira,Root/Backpack/karmanPravBikVerx/hljastikL7/dirka87,Root/Backpack/KarmanNigniVeliki/KarmanNigniLivo,Root/Backpack/rukzOsnova/hljastikL,Root/Backpack/Gas-lamp/glass-D,Root/Backpack/KarmanNigniVeliki/KarmanNigniPravo,Root/Backpack/Sokira/kriplenniaVerx,Root/TorchHolder/Torch,Root/Backpack/karmanLivBikNiz/krishka6,Root/Backpack/rukzOsnova/hljastikR,Root/Backpack/karmanPered/ZnachokOsnova,Root/Backpack/karmanLivBikNiz/krishka5,Root/MasloLixtar,Root/Backpack/karmanPered/hljastikL2/dirka159,Root/Backpack/Gas-lamp/base3/flare2,Root/Backpack/jonas-lamp/Trimach2,Root/Backpack/Lantern/base2,Root/Backpack/KarmanLiviVerx2/krishka10/hljastikR7,Root/Backpack/KarmanLiviVerx2/krishka10/hljastikR8,Root/Backpack/karmanPravBikNiz/hljastikL8,Root/Backpack/karmanVerx,Root/ZnachokOsnova3/ZnachokStorona4,Root/Backpack/KarmanVerx/ZnachokOsnova2,Root/Backpack/KarmanVerx/ZnachokOsnova3,Root/Backpack/GeoMolotok,Root/Backpack/OsnovaVerx/hljastikVerxKrishkaL",
+		"allAngles": false,
 		"entityTextureMode": false
 	},
 	"textureWidth": 16,
@@ -14,27 +13,33 @@
 		"leather": [16,16]
 	},
 	"textures": {
-		"reedrope": "game:block/cloth/reedrope",
-		"vintage": "game:block/glass/vintage",
-		"brass": "game:block/metal/tarnished/brass",
-		"rusty-iron": "game:block/metal/tarnished/rusty-iron",
-		"steel": "game:block/metal/tarnished/steel",
-		"flint": "game:block/stone/flint",
-		"lapislazuli": "game:block/stone/gem/lapislazuli",
-		"olivine": "game:block/stone/gem/olivine",
-		"quartz": "game:block/stone/gem/quartz",
-		"straps": "game:item/bag/backpack/straps",
-		"temporalgear": "game:item/resource/temporalgear",
-		"amethyst": "fendragonbcs:item/bag/backpack/ametist"
+		"reedrope": "/Game/VintageStory/assets/survival/textures/block/cloth/reedrope",
+		"vintage": "/Game/VintageStory/assets/survival/textures/block/glass/vintage",
+		"brass": "/Game/VintageStory/assets/survival/textures/block/metal/tarnished/brass",
+		"rusty-iron": "/Game/VintageStory/assets/survival/textures/block/metal/tarnished/rusty-iron",
+		"steel": "/Game/VintageStory/assets/survival/textures/block/metal/tarnished/steel",
+		"flint": "/Game/VintageStory/assets/survival/textures/block/stone/flint",
+		"candle": "/Game/Vintagestory/assets/survival/textures/block/candle",
+		"glass": "/Game/Vintagestory/assets/survival/textures/block/glass/quartz",
+		"material-deco": "/Game/Vintagestory/assets/survival/textures/block/metal/lantern/copper-deco",
+		"material1": "/Game/Vintagestory/assets/survival/textures/block/metal/torchholder/aged",
+		"lapislazuli": "/Game/Vintagestory/assets/survival/textures/block/stone/gem/lapislazuli",
+		"olivine": "/Game/Vintagestory/assets/survival/textures/block/stone/gem/olivine",
+		"quartz": "/Game/Vintagestory/assets/survival/textures/block/stone/gem/quartz",
+		"oak1": "/Game/Vintagestory/assets/survival/textures/block/wood/planks/oak1",
+		"flammable-lit": "/Game/Vintagestory/assets/survival/textures/block/wood/torch/flammable-lit",
+		"wood": "/Game/Vintagestory/assets/survival/textures/block/wood/torch/wood",
+		"straps": "/Game/Vintagestory/assets/survival/textures/item/bag/backpack/straps",
+		"temporalgear": "/Game/Vintagestory/assets/survival/textures/item/resource/temporalgear",
+		"amethyst": "/Users/Shaman/AppData/Roaming/VintagestoryData/Mods/FendragonBCS-v.0.1.8/assets/fendragonbcs/textures/item/bag/backpack/ametist",
+		"leather": "/Users/Shaman/AppData/Roaming/VintagestoryData/Mods/FendragonBCS-v.0.1.8/assets/fendragonbcs/textures/item/bag/backpack/polotno2"
 	},
 	"elements": [
 		{
 			"name": "Backpack",
-			"stepParentName": "UpperTorso",
-			"from": [ 9.2, -4.0, 11.5 ],
-			"to": [ 14.2, 4.1, 15.0 ],
-			"rotationOrigin": [ 4.2, -0.5, 10.5 ],
-			"rotationY": 90.0,
+			"from": [ 5.5, 0.0, 6.0 ],
+			"to": [ 10.5, 8.1, 9.5 ],
+			"rotationOrigin": [ 8.0, -4.5, 8.0 ],
 			"faces": {
 				"north": { "texture": "#leather", "uv": [ 9.0, 5.0, 15.5, 16.0 ], "autoUv": false },
 				"east": { "texture": "#leather", "uv": [ 1.0, 5.0, 5.0, 15.0 ], "autoUv": false },
@@ -44,6 +49,354 @@
 				"down": { "texture": "#leather", "uv": [ 0.5, 10.0, 15.5, 16.0 ], "autoUv": false }
 			},
 			"children": [
+				{
+					"name": "Lantern",
+					"from": [ 1.52, 4.7, 3.87 ],
+					"to": [ 3.4326, 4.939, 5.7826 ],
+					"rotationOrigin": [ 0.7087, 4.6874, 2.8687 ],
+					"rotationY": -90.0,
+					"faces": {
+						"north": { "texture": "#rusty-iron", "uv": [ 8.0, 6.0, 11.2, 6.8 ], "autoUv": false },
+						"east": { "texture": "#rusty-iron", "uv": [ 9.0, 5.5, 11.8, 6.3 ], "autoUv": false },
+						"south": { "texture": "#rusty-iron", "uv": [ 9.0, 6.0, 11.4, 6.8 ], "autoUv": false },
+						"west": { "texture": "#rusty-iron", "uv": [ 10.0, 6.0, 12.0, 6.8 ], "autoUv": false },
+						"up": { "texture": "#rusty-iron", "uv": [ 9.5, 6.0, 11.0, 7.5 ] },
+						"down": { "texture": "#rusty-iron", "uv": [ 10.5, 5.5, 12.0, 7.0 ] }
+					},
+					"children": [
+						{
+							"name": "candle",
+							"from": [ 0.7171, 0.4782, 0.7171 ],
+							"to": [ 1.1954, 1.4345, 1.1954 ],
+							"faces": {
+								"north": { "texture": "#candle", "uv": [ 0.0, 12.0, 0.4782, 12.9563 ] },
+								"east": { "texture": "#candle", "uv": [ 2.0, 12.0, 2.4781, 12.9563 ] },
+								"south": { "texture": "#candle", "uv": [ 4.0, 12.0, 4.4782, 12.9563 ] },
+								"west": { "texture": "#candle", "uv": [ 6.0, 12.0, 6.4782, 12.9563 ] },
+								"up": { "texture": "#candle", "uv": [ 14.0, 0.0, 14.4782, 0.4782 ] }
+							},
+							"children": [
+								{
+									"name": "top",
+									"from": [ 0.1913, 0.9563, 0.1913 ],
+									"to": [ 0.287, 1.0758, 0.287 ],
+									"faces": {
+										"north": { "texture": "#candle", "uv": [ 0.0, 0.0, 0.0, 0.1195 ], "glow": 196 },
+										"east": { "texture": "#candle", "uv": [ 0.0, 0.0, 0.0, 0.1195 ], "glow": 196 },
+										"south": { "texture": "#candle", "uv": [ 0.0, 0.0, 0.0, 0.1195 ], "glow": 196 },
+										"west": { "texture": "#candle", "uv": [ 0.0, 0.0, 0.0, 0.1195 ], "glow": 196 },
+										"up": { "texture": "#candle", "uv": [ 0.0, 0.0, 0.0, 0.0 ], "glow": 196 }
+									}
+								}
+							]
+						},
+						{
+							"name": "base2",
+							"from": [ 0.239, 0.239, 0.239 ],
+							"to": [ 1.6734, 0.4782, 1.6734 ],
+							"faces": {
+								"north": { "texture": "#rusty-iron", "uv": [ 8.5, 5.5, 9.7, 5.9 ] },
+								"east": { "texture": "#rusty-iron", "uv": [ 9.0, 9.0, 10.2, 9.4 ] },
+								"south": { "texture": "#rusty-iron", "uv": [ 9.0, 6.0, 10.2, 6.4 ] },
+								"west": { "texture": "#rusty-iron", "uv": [ 10.0, 9.0, 11.2, 9.4 ] },
+								"up": { "texture": "#rusty-iron", "uv": [ 9.0, 6.0, 10.2, 7.2 ] }
+							},
+							"children": [
+								{
+									"name": "pillar 1",
+									"from": [ 0.0, 0.239, 0.0 ],
+									"to": [ 0.239, 1.6734, 0.239 ],
+									"faces": {
+										"north": { "texture": "#rusty-iron", "uv": [ 9.5, 5.5, 9.9, 6.7 ] },
+										"east": { "texture": "#rusty-iron", "uv": [ 9.5, 5.0, 9.9, 6.2 ] },
+										"south": { "texture": "#rusty-iron", "uv": [ 7.5, 4.5, 7.9, 5.7 ] },
+										"west": { "texture": "#rusty-iron", "uv": [ 12.5, 7.5, 12.9, 8.7 ] }
+									}
+								},
+								{
+									"name": "pillar 2",
+									"from": [ 1.1953, 0.239, 0.0 ],
+									"to": [ 1.4345, 1.6734, 0.239 ],
+									"faces": {
+										"north": { "texture": "#rusty-iron", "uv": [ 14.0, 2.0, 14.4, 3.2 ] },
+										"east": { "texture": "#rusty-iron", "uv": [ 7.5, 8.0, 7.9, 9.2 ] },
+										"south": { "texture": "#rusty-iron", "uv": [ 8.5, 8.0, 8.9, 9.2 ] },
+										"west": { "texture": "#rusty-iron", "uv": [ 10.0, 5.0, 10.4, 6.2 ] }
+									}
+								},
+								{
+									"name": "pillar 3",
+									"from": [ 1.1953, 0.239, 1.1953 ],
+									"to": [ 1.4345, 1.6734, 1.4345 ],
+									"faces": {
+										"north": { "texture": "#rusty-iron", "uv": [ 9.0, 7.0, 9.4, 8.2 ] },
+										"east": { "texture": "#rusty-iron", "uv": [ 14.0, 8.0, 14.4, 9.2 ] },
+										"south": { "texture": "#rusty-iron", "uv": [ 9.5, 5.0, 9.9, 6.2 ] },
+										"west": { "texture": "#rusty-iron", "uv": [ 9.0, 3.0, 9.4, 4.2 ] }
+									}
+								},
+								{
+									"name": "pillar 4",
+									"from": [ 0.0, 0.239, 1.1953 ],
+									"to": [ 0.239, 1.6734, 1.4345 ],
+									"faces": {
+										"north": { "texture": "#rusty-iron", "uv": [ 8.0, 3.0, 8.4, 4.2 ] },
+										"east": { "texture": "#rusty-iron", "uv": [ 6.0, 3.0, 6.4, 4.2 ] },
+										"south": { "texture": "#rusty-iron", "uv": [ 8.0, 5.5, 8.4, 6.7 ] },
+										"west": { "texture": "#rusty-iron", "uv": [ 9.0, 4.0, 9.4, 5.2 ] }
+									}
+								},
+								{
+									"name": "glass N",
+									"from": [ 0.239, 0.239, 0.1195 ],
+									"to": [ 1.1953, 1.6734, 0.1195 ],
+									"renderPass": 3,
+									"faces": {
+										"north": { "texture": "#glass", "uv": [ 7.0, 8.0, 7.9563, 9.4345 ], "glow": 196 }
+									}
+								},
+								{
+									"name": "glass S",
+									"from": [ 0.239, 0.239, 1.315 ],
+									"to": [ 1.1953, 1.6734, 1.315 ],
+									"renderPass": 3,
+									"faces": {
+										"north": { "texture": "#glass", "uv": [ 8.0, 6.0, 8.9563, 7.4345 ], "glow": 196 }
+									}
+								},
+								{
+									"name": "glass W",
+									"from": [ 0.1195, 0.239, 0.239 ],
+									"to": [ 0.1195, 1.6734, 1.1953 ],
+									"renderPass": 3,
+									"faces": {
+										"west": { "texture": "#glass", "uv": [ 4.0, 2.0, 4.9562, 3.4345 ], "glow": 196 }
+									}
+								},
+								{
+									"name": "glass E",
+									"from": [ 1.315, 0.239, 0.239 ],
+									"to": [ 1.315, 1.6734, 1.1953 ],
+									"renderPass": 3,
+									"faces": {
+										"west": { "texture": "#glass", "uv": [ 1.0, 4.0, 1.9563, 5.4345 ], "glow": 196 }
+									}
+								},
+								{
+									"name": "deco N",
+									"from": [ 0.239, 0.239, 0.0957 ],
+									"to": [ 1.1953, 1.6734, 0.0957 ],
+									"renderPass": 1,
+									"faces": {
+										"north": { "texture": "#material-deco", "uv": [ 8.5, 8.5, 15.3032, 15.2813 ], "autoUv": false }
+									}
+								},
+								{
+									"name": "deco S",
+									"from": [ 0.239, 0.239, 1.3387 ],
+									"to": [ 1.1953, 1.6734, 1.3387 ],
+									"renderPass": 1,
+									"faces": {
+										"north": { "texture": "#material-deco", "uv": [ 0.5, 1.0, 7.0313, 7.6375 ], "autoUv": false }
+									}
+								},
+								{
+									"name": "deco W",
+									"from": [ 0.0957, 0.239, 0.239 ],
+									"to": [ 0.0957, 1.6734, 1.1953 ],
+									"renderPass": 1,
+									"faces": {
+										"west": { "texture": "#material-deco", "uv": [ 0.5, 1.0, 7.6095, 8.0375 ], "autoUv": false }
+									}
+								},
+								{
+									"name": "deco E",
+									"from": [ 1.3387, 0.239, 0.239 ],
+									"to": [ 1.3387, 1.6734, 1.1953 ],
+									"renderPass": 1,
+									"faces": {
+										"west": { "texture": "#material-deco", "uv": [ 0.5, 8.5, 7.0313, 15.4094 ], "autoUv": false }
+									}
+								}
+							]
+						},
+						{
+							"name": "top 1",
+							"from": [ 0.239, 1.9126, 0.239 ],
+							"to": [ 1.6734, 2.1516, 1.6734 ],
+							"faces": {
+								"north": { "texture": "#rusty-iron", "uv": [ 9.5, 7.5, 10.7, 7.9 ] },
+								"east": { "texture": "#rusty-iron", "uv": [ 10.0, 9.0, 11.2, 9.4 ] },
+								"south": { "texture": "#rusty-iron", "uv": [ 9.5, 8.5, 10.7, 8.9 ] },
+								"west": { "texture": "#rusty-iron", "uv": [ 10.5, 9.0, 11.7, 9.4 ] },
+								"down": { "texture": "#rusty-iron", "uv": [ 8.5, 7.5, 9.7, 8.7 ] }
+							}
+						},
+						{
+							"name": "top 2",
+							"from": [ 0.0, 2.1516, 0.0 ],
+							"to": [ 1.9126, 2.3908, 1.9126 ],
+							"faces": {
+								"north": { "texture": "#rusty-iron", "uv": [ 9.5, 7.0, 11.1, 7.4 ] },
+								"east": { "texture": "#rusty-iron", "uv": [ 9.0, 6.5, 10.6, 6.9 ] },
+								"south": { "texture": "#rusty-iron", "uv": [ 9.0, 7.0, 10.6, 7.4 ] },
+								"west": { "texture": "#rusty-iron", "uv": [ 8.5, 7.0, 10.1, 7.4 ] },
+								"up": { "texture": "#rusty-iron", "uv": [ 10.0, 7.5, 11.6, 9.1 ] },
+								"down": { "texture": "#rusty-iron", "uv": [ 10.0, 8.0, 11.6, 9.6 ] }
+							}
+						},
+						{
+							"name": "top 3",
+							"from": [ 0.4782, 2.3908, 0.4782 ],
+							"to": [ 1.4345, 2.6297, 1.4345 ],
+							"faces": {
+								"north": { "texture": "#rusty-iron", "uv": [ 9.0, 5.5, 9.8, 5.9 ] },
+								"east": { "texture": "#rusty-iron", "uv": [ 7.0, 5.0, 7.8, 5.4 ] },
+								"south": { "texture": "#rusty-iron", "uv": [ 7.0, 6.0, 7.8, 6.4 ] },
+								"west": { "texture": "#rusty-iron", "uv": [ 6.0, 5.0, 6.8, 5.4 ] },
+								"up": { "texture": "#rusty-iron", "uv": [ 8.5, 5.5, 9.3, 6.3 ] }
+							}
+						},
+						{
+							"name": "holder 1",
+							"from": [ 0.7171, 2.6297, 0.7171 ],
+							"to": [ 1.1954, 3.347, 1.1954 ],
+							"faces": {
+								"north": { "texture": "#oak1", "uv": [ 4.5, 0.5, 10.2375, 4.8032 ], "autoUv": false },
+								"east": { "texture": "#oak1", "uv": [ 5.0, 0.5, 7.8687, 4.8032 ], "autoUv": false },
+								"south": { "texture": "#oak1", "uv": [ 5.0, 1.0, 7.8687, 4.825 ], "autoUv": false },
+								"west": { "texture": "#oak1", "uv": [ 5.0, 0.5, 7.8687, 4.8032 ], "autoUv": false },
+								"up": { "texture": "#oak1", "uv": [ 5.5, 2.0, 7.8908, 5.3468 ], "autoUv": false }
+							}
+						},
+						{
+							"name": "holder horizontal",
+							"from": [ 0.96, 2.94, -0.18 ],
+							"to": [ 1.1513, 3.1313, 0.9057 ],
+							"rotationOrigin": [ 0.96, 2.88, 0.48 ],
+							"rotationZ": 45.0,
+							"faces": {
+								"east": { "texture": "#oak1", "uv": [ 5.0, 6.5, 7.3813, 8.1687 ], "autoUv": false },
+								"west": { "texture": "#oak1", "uv": [ 5.5, 3.0, 7.8813, 4.5468 ], "autoUv": false },
+								"up": { "texture": "#oak1", "uv": [ 4.0, 7.0, 6.8595, 8.5468 ], "autoUv": false },
+								"down": { "texture": "#oak1", "uv": [ 6.5, 2.5, 9.3594, 4.047 ], "autoUv": false }
+							}
+						},
+						{
+							"name": "holder 2",
+							"from": [ -0.1738, 0.5653, -0.2809 ],
+							"to": [ 0.3044, 3.5653, -0.0418 ],
+							"rotationOrigin": [ -1.0185, -2.1554, 0.6526 ],
+							"rotationZ": -8.9149,
+							"faces": {
+								"north": { "texture": "#oak1", "uv": [ 4.0, 3.5, 12.6063, 12.5844 ], "autoUv": false },
+								"east": { "texture": "#oak1", "uv": [ 0.5, 1.0, 1.9345, 9.6063 ], "rotation": 180, "autoUv": false },
+								"south": { "texture": "#oak1", "uv": [ 0.5, 11.5, 2.5062, 2.9406 ], "rotation": 180, "autoUv": false },
+								"west": { "texture": "#oak1", "uv": [ 0.5, 1.0, 1.9345, 9.6063 ], "rotation": 180, "autoUv": false },
+								"up": { "texture": "#oak1", "uv": [ 8.0, 2.0, 12.3032, 5.825 ], "autoUv": false },
+								"down": { "texture": "#oak1", "uv": [ 8.5, 1.5, 12.8032, 5.447 ], "autoUv": false }
+							},
+							"children": [
+								{
+									"name": "kriplenniaVerxLixtar",
+									"from": [ 0.36, 2.715, -0.492 ],
+									"to": [ 0.5008, 3.1932, 0.1267 ],
+									"rotationOrigin": [ 0.175, 2.7126, -0.2258 ],
+									"rotationX": 90.0,
+									"rotationY": -65.0,
+									"faces": {
+										"north": { "texture": "#reedrope", "uv": [ 0.5, 6.0, 11.75, 7.6875 ], "rotation": 90, "autoUv": false },
+										"east": { "texture": "#reedrope", "uv": [ 2.0, 3.5, 12.125, 5.1876 ], "autoUv": false },
+										"south": { "texture": "#reedrope", "uv": [ 2.0, 4.0, 12.6876, 5.6876 ], "rotation": 90, "autoUv": false },
+										"west": { "texture": "#reedrope", "uv": [ 2.5, 3.0, 12.0626, 4.6876 ], "autoUv": false },
+										"up": { "texture": "#reedrope", "uv": [ 1.5, 4.0, 11.625, 5.6876 ], "rotation": 90, "autoUv": false },
+										"down": { "texture": "#reedrope", "uv": [ 2.5, 3.5, 11.5, 5.1876 ], "rotation": 90, "autoUv": false }
+									},
+									"children": [
+										{
+											"name": "string 20",
+											"from": [ -0.1124, 0.0058, -0.0674 ],
+											"to": [ 0.0281, 0.4838, 0.5513 ],
+											"rotationOrigin": [ -0.071, -0.014, 0.3882 ],
+											"rotationY": -50.0,
+											"faces": {
+												"north": { "texture": "#reedrope", "uv": [ 0.5, 5.0, 12.3126, 6.6876 ], "rotation": 90, "autoUv": false },
+												"east": { "texture": "#reedrope", "uv": [ 1.0, 4.0, 12.25, 5.6876 ], "autoUv": false },
+												"south": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 10.625, 5.1876 ], "rotation": 90, "autoUv": false },
+												"west": { "texture": "#reedrope", "uv": [ 1.0, 3.0, 11.6876, 4.6876 ], "autoUv": false },
+												"up": { "texture": "#reedrope", "uv": [ 1.5, 3.5, 12.1876, 5.1876 ], "rotation": 90, "autoUv": false },
+												"down": { "texture": "#reedrope", "uv": [ 2.0, 4.0, 11.0, 5.6876 ], "rotation": 90, "autoUv": false }
+											}
+										},
+										{
+											"name": "nail 13",
+											"from": [ 0.0, 0.016, 0.276 ],
+											"to": [ 0.1125, 0.4942, 0.3885 ],
+											"rotationOrigin": [ 0.4402, -0.0982, 1.0446 ],
+											"faces": {
+												"north": { "texture": "#rusty-iron", "uv": [ 7.0, 11.0, 7.5, 11.5 ], "rotation": 90 },
+												"east": { "texture": "#rusty-iron", "uv": [ 2.5, 4.5, 2.9, 4.9 ] },
+												"south": { "texture": "#rusty-iron", "uv": [ 6.0, 9.5, 6.5, 10.0 ], "rotation": 90 },
+												"west": { "texture": "#rusty-iron", "uv": [ 2.0, 4.5, 2.4, 4.9 ] },
+												"up": { "texture": "#rusty-iron", "uv": [ 9.0, 8.0, 9.5, 8.5 ], "rotation": 90 },
+												"down": { "texture": "#rusty-iron", "uv": [ 12.0, 8.0, 12.4, 8.4 ] }
+											}
+										}
+									]
+								},
+								{
+									"name": "kriplenniaNizLixtar",
+									"from": [ 0.1126, 0.15, -0.5887 ],
+									"to": [ 0.2531, 0.6282, 0.03 ],
+									"rotationOrigin": [ 0.175, 0.1626, -0.2258 ],
+									"rotationX": 90.0,
+									"rotationY": -71.0,
+									"faces": {
+										"north": { "texture": "#reedrope", "uv": [ 1.5, 4.0, 12.75, 5.6876 ], "rotation": 90, "autoUv": false },
+										"east": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 11.75, 5.1876 ], "autoUv": false },
+										"south": { "texture": "#reedrope", "uv": [ 0.5, 4.5, 11.1876, 6.1876 ], "rotation": 90, "autoUv": false },
+										"west": { "texture": "#reedrope", "uv": [ 1.0, 3.0, 12.25, 4.6876 ], "autoUv": false },
+										"up": { "texture": "#reedrope", "uv": [ 1.0, 4.0, 12.25, 5.6876 ], "rotation": 90, "autoUv": false },
+										"down": { "texture": "#reedrope", "uv": [ 1.5, 3.5, 12.1876, 5.1876 ], "rotation": 90, "autoUv": false }
+									},
+									"children": [
+										{
+											"name": "string 21",
+											"from": [ -0.1124, 0.0113, -0.0674 ],
+											"to": [ 0.0281, 0.4895, 0.5513 ],
+											"rotationOrigin": [ -0.071, -0.014, 0.3882 ],
+											"rotationY": -50.0,
+											"faces": {
+												"north": { "texture": "#reedrope", "uv": [ 1.5, 6.5, 12.1876, 8.1875 ], "rotation": 90, "autoUv": false },
+												"east": { "texture": "#reedrope", "uv": [ 1.0, 3.5, 12.25, 5.1876 ], "autoUv": false },
+												"south": { "texture": "#reedrope", "uv": [ 2.0, 3.5, 12.6876, 5.1876 ], "rotation": 90, "autoUv": false },
+												"west": { "texture": "#reedrope", "uv": [ 1.5, 3.5, 12.1876, 5.1876 ], "autoUv": false },
+												"up": { "texture": "#reedrope", "uv": [ 1.0, 3.5, 12.25, 5.1876 ], "rotation": 90, "autoUv": false },
+												"down": { "texture": "#reedrope", "uv": [ 1.0, 3.5, 11.125, 5.1876 ], "rotation": 90, "autoUv": false }
+											}
+										},
+										{
+											"name": "nail 12",
+											"from": [ -0.9662, 0.6187, 0.036 ],
+											"to": [ -0.8538, 1.097, 0.1485 ],
+											"rotationOrigin": [ -0.5443, 0.5568, 0.7694 ],
+											"rotationY": -25.0,
+											"rotationZ": -180.0,
+											"faces": {
+												"north": { "texture": "#rusty-iron", "uv": [ 7.0, 11.0, 7.5, 11.5 ], "rotation": 90 },
+												"east": { "texture": "#rusty-iron", "uv": [ 2.0, 5.0, 2.4, 5.4 ] },
+												"south": { "texture": "#rusty-iron", "uv": [ 6.0, 9.5, 6.5, 10.0 ], "rotation": 90 },
+												"west": { "texture": "#rusty-iron", "uv": [ 2.0, 6.0, 2.4, 6.4 ] },
+												"up": { "texture": "#rusty-iron", "uv": [ 6.0, 10.5, 6.5, 11.0 ], "rotation": 90 },
+												"down": { "texture": "#rusty-iron", "uv": [ 12.0, 8.0, 12.4, 8.4 ] }
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				},
 				{
 					"name": "KarmanVerx",
 					"from": [ 0.3, 8.38, 0.1 ],
@@ -3956,6 +4309,524 @@
 					]
 				},
 				{
+					"name": "KarmanPravNiz",
+					"from": [ 3.5, 0.05, -0.3 ],
+					"to": [ 7.39, 4.35, 2.4 ],
+					"rotationOrigin": [ 6.1, -4.4, 1.3 ],
+					"rotationY": 90.0,
+					"faces": {
+						"north": { "texture": "#leather", "uv": [ 7.0, 0.5, 13.5, 5.0 ], "autoUv": false },
+						"east": { "texture": "#leather", "uv": [ 11.5, 5.0, 14.5, 9.5 ], "autoUv": false },
+						"south": { "texture": "#leather", "uv": [ 2.0, 9.5, 8.0, 14.5 ], "autoUv": false },
+						"west": { "texture": "#leather", "uv": [ 10.0, 5.0, 13.0, 10.0 ], "autoUv": false },
+						"up": { "texture": "#leather", "uv": [ 0.5, 11.0, 6.0, 15.0 ], "autoUv": false },
+						"down": { "texture": "#leather", "uv": [ 1.5, 9.5, 7.0, 14.0 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "krishka7",
+							"from": [ 0.1, 1.5, 0.12 ],
+							"to": [ 3.79, 4.4, 2.82 ],
+							"rotationOrigin": [ 0.1, 1.5227, 0.1243 ],
+							"faces": {
+								"north": { "texture": "#leather", "uv": [ 10.0, 9.5, 14.0, 13.0 ], "autoUv": false },
+								"east": { "texture": "#leather", "uv": [ 10.0, 8.0, 14.5, 11.0 ], "autoUv": false },
+								"south": { "texture": "#leather", "uv": [ 11.5, 5.0, 16.0, 8.0 ], "rotation": 180, "autoUv": false },
+								"west": { "texture": "#leather", "uv": [ 12.0, 5.5, 16.0, 8.5 ], "autoUv": false },
+								"up": { "texture": "#leather", "uv": [ 11.0, 4.5, 15.5, 8.5 ], "autoUv": false },
+								"down": { "texture": "#leather", "uv": [ 11.0, 5.5, 15.5, 8.5 ], "autoUv": false }
+							},
+							"children": [
+								{
+									"name": "ZnachokOsnova4",
+									"from": [ 1.15, 0.03, 2.46 ],
+									"to": [ 1.95, 0.83, 2.76 ],
+									"rotationOrigin": [ 1.2, -0.067, 2.5771 ],
+									"rotationX": -3.0,
+									"rotationZ": -45.0,
+									"faces": {
+										"north": { "texture": "#leather", "uv": [ 7.0, 3.5, 7.5, 4.0 ] },
+										"east": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+										"south": { "texture": "#leather", "uv": [ 8.0, 3.0, 9.0, 4.0 ], "autoUv": false },
+										"west": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+										"up": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+										"down": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] }
+									},
+									"children": [
+										{
+											"name": "ZnachokSeredina9",
+											"from": [ 0.03, 0.03, 0.01 ],
+											"to": [ 0.77, 0.77, 0.31 ],
+											"rotationOrigin": [ 0.05, -0.1, 0.08 ],
+											"faces": {
+												"north": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+												"east": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+												"south": { "texture": "#leather", "uv": [ 5.5, 7.0, 6.5, 8.0 ], "autoUv": false },
+												"west": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+												"up": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+												"down": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] }
+											}
+										},
+										{
+											"name": "zna4ok4",
+											"from": [ 0.1255, 0.414, 0.0498 ],
+											"to": [ 0.6255, 0.539, 0.5498 ],
+											"rotationOrigin": [ 0.4405, 0.4641, 0.2798 ],
+											"rotationX": 91.4137,
+											"rotationY": 44.9913,
+											"rotationZ": -0.9997,
+											"faces": {
+												"north": { "texture": "#quartz", "uv": [ 9.5, 14.5, 10.0, 15.0 ] },
+												"east": { "texture": "#quartz", "uv": [ 10.5, 15.0, 11.0, 15.5 ] },
+												"south": { "texture": "#quartz", "uv": [ 10.0, 14.5, 10.5, 15.0 ] },
+												"west": { "texture": "#quartz", "uv": [ 10.0, 14.0, 10.5, 14.5 ] },
+												"up": { "texture": "#quartz", "uv": [ 9.5, 14.0, 10.0, 14.5 ] }
+											},
+											"children": [
+												{
+													"name": "seal5",
+													"from": [ 0.0, -0.025, 0.0 ],
+													"to": [ 0.5, 0.1, 0.5 ],
+													"rotationOrigin": [ 0.25, -0.025, 0.25 ],
+													"rotationY": -45.0,
+													"faces": {
+														"north": { "texture": "#amethyst", "uv": [ 10.0, 15.0, 10.5, 15.5 ] },
+														"east": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ] },
+														"south": { "texture": "#amethyst", "uv": [ 10.0, 14.5, 10.5, 15.0 ] },
+														"west": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ] },
+														"up": { "texture": "#amethyst", "uv": [ 10.0, 14.0, 10.5, 14.5 ], "glow": 75 }
+													}
+												},
+												{
+													"name": "seal-glow19",
+													"from": [ 0.125, 0.125, 0.1 ],
+													"to": [ 0.375, 0.15, 0.15 ],
+													"rotationOrigin": [ 0.25, 0.125, 0.125 ],
+													"faces": {
+														"north": { "texture": "#amethyst", "uv": [ 11.0, 15.5, 11.5, 16.0 ], "glow": 75 },
+														"east": { "texture": "#amethyst", "uv": [ 10.0, 15.0, 10.5, 15.5 ], "glow": 150 },
+														"south": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 },
+														"west": { "texture": "#amethyst", "uv": [ 10.0, 14.5, 10.5, 15.0 ], "glow": 150 },
+														"up": { "texture": "#amethyst", "uv": [ 10.0, 14.0, 10.5, 14.5 ], "glow": 150 }
+													}
+												},
+												{
+													"name": "seal-glow20",
+													"from": [ 0.125, 0.125, 0.35 ],
+													"to": [ 0.375, 0.15, 0.4 ],
+													"rotationOrigin": [ 0.25, 0.125, 0.375 ],
+													"faces": {
+														"north": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 75 },
+														"east": { "texture": "#amethyst", "uv": [ 9.0, 14.0, 9.5, 14.5 ], "glow": 150 },
+														"south": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 },
+														"west": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 150 },
+														"up": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 }
+													}
+												},
+												{
+													"name": "seal-glow21",
+													"from": [ 0.225, 0.125, 0.275 ],
+													"to": [ 0.275, 0.15, 0.325 ],
+													"rotationOrigin": [ 0.25, 0.125, 0.3 ],
+													"faces": {
+														"north": { "texture": "#amethyst", "uv": [ 9.5, 14.0, 10.0, 14.5 ], "glow": 75 },
+														"east": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 150 },
+														"south": { "texture": "#amethyst", "uv": [ 11.5, 14.0, 12.0, 14.5 ], "glow": 150 },
+														"west": { "texture": "#amethyst", "uv": [ 10.0, 15.5, 10.5, 16.0 ], "glow": 150 },
+														"up": { "texture": "#amethyst", "uv": [ 10.5, 15.0, 11.0, 15.5 ], "glow": 150 }
+													}
+												},
+												{
+													"name": "seal-glow22",
+													"from": [ 0.225, 0.125, 0.175 ],
+													"to": [ 0.275, 0.15, 0.225 ],
+													"rotationOrigin": [ 0.25, 0.125, 0.2 ],
+													"faces": {
+														"north": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 75 },
+														"east": { "texture": "#amethyst", "uv": [ 9.0, 14.0, 9.5, 14.5 ], "glow": 150 },
+														"south": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 },
+														"west": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 150 },
+														"up": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 }
+													}
+												},
+												{
+													"name": "seal-glow23",
+													"from": [ 0.175, 0.125, 0.225 ],
+													"to": [ 0.225, 0.15, 0.275 ],
+													"rotationOrigin": [ 0.2, 0.125, 0.25 ],
+													"faces": {
+														"north": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 75 },
+														"east": { "texture": "#amethyst", "uv": [ 9.0, 14.0, 9.5, 14.5 ], "glow": 150 },
+														"south": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 },
+														"west": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 150 },
+														"up": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 }
+													}
+												},
+												{
+													"name": "seal-glow24",
+													"from": [ 0.275, 0.125, 0.225 ],
+													"to": [ 0.325, 0.15, 0.275 ],
+													"rotationOrigin": [ 0.3, 0.125, 0.25 ],
+													"faces": {
+														"north": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 75 },
+														"east": { "texture": "#amethyst", "uv": [ 11.0, 14.5, 11.5, 15.0 ], "glow": 150 },
+														"south": { "texture": "#amethyst", "uv": [ 11.0, 15.0, 11.5, 15.5 ], "glow": 150 },
+														"west": { "texture": "#amethyst", "uv": [ 9.5, 14.5, 10.0, 15.0 ], "glow": 150 },
+														"up": { "texture": "#amethyst", "uv": [ 10.5, 14.5, 11.0, 15.0 ], "glow": 150 }
+													}
+												}
+											]
+										},
+										{
+											"name": "ZnachokStorona5",
+											"from": [ -0.1414, 0.3543, -0.015 ],
+											"to": [ 0.6086, 1.1043, 0.285 ],
+											"rotationOrigin": [ -0.0914, 0.3243, 0.06 ],
+											"rotationZ": -45.0,
+											"faces": {
+												"north": { "texture": "#leather", "uv": [ 7.0, 3.5, 7.5, 4.0 ] },
+												"east": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+												"south": { "texture": "#leather", "uv": [ 8.0, 3.0, 9.0, 4.0 ], "autoUv": false },
+												"west": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+												"up": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+												"down": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] }
+											},
+											"children": [
+												{
+													"name": "ZnachokSeredina10",
+													"from": [ 0.03, 0.03, 0.01 ],
+													"to": [ 0.73, 0.73, 0.31 ],
+													"rotationOrigin": [ 0.05, -0.1, 0.08 ],
+													"faces": {
+														"north": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+														"east": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+														"south": { "texture": "#leather", "uv": [ 5.5, 7.0, 6.5, 8.0 ], "autoUv": false },
+														"west": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+														"up": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] },
+														"down": { "texture": "#leather", "uv": [ 7.0, 5.0, 7.5, 5.5 ] }
+													}
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "hljastikR4",
+									"from": [ 1.55, -1.09, 2.6 ],
+									"to": [ 2.05, -0.69, 3.8 ],
+									"rotationOrigin": [ 3.2, -1.099, 2.6939 ],
+									"rotationX": -90.0,
+									"faces": {
+										"north": { "texture": "#leather", "uv": [ 6.5, 1.5, 8.5, 3.5 ], "autoUv": false },
+										"east": { "texture": "#leather", "uv": [ 6.5, 1.5, 8.5, 3.5 ], "autoUv": false },
+										"south": { "texture": "#leather", "uv": [ 6.5, 2.0, 8.5, 3.5 ], "autoUv": false },
+										"west": { "texture": "#leather", "uv": [ 6.5, 1.5, 8.5, 3.5 ], "autoUv": false },
+										"up": { "texture": "#leather", "uv": [ 8.5, 1.5, 6.5, 3.5 ], "autoUv": false },
+										"down": { "texture": "#leather", "uv": [ 8.0, 7.5, 9.0, 5.0 ], "autoUv": false }
+									},
+									"children": [
+										{
+											"name": "hljastik19",
+											"from": [ 0.0, -0.05, -0.34 ],
+											"to": [ 0.5, 0.05, 0.21 ],
+											"rotationOrigin": [ 1.6, -0.099, -0.1861 ],
+											"rotationX": -37.0,
+											"faces": {
+												"north": { "texture": "#leather", "uv": [ 7.0, 1.5, 9.0, 3.5 ], "autoUv": false },
+												"east": { "texture": "#leather", "uv": [ 6.0, 1.5, 8.0, 3.5 ], "autoUv": false },
+												"south": { "texture": "#leather", "uv": [ 12.0, 8.5, 12.5, 9.0 ] },
+												"west": { "texture": "#leather", "uv": [ 5.5, 1.5, 7.5, 3.5 ], "autoUv": false },
+												"up": { "texture": "#leather", "uv": [ 13.5, 9.0, 14.0, 9.5 ] },
+												"down": { "texture": "#leather", "uv": [ 10.0, 6.5, 10.5, 7.0 ], "autoUv": false }
+											}
+										},
+										{
+											"name": "zamok47",
+											"from": [ -0.06, -0.05, 0.55 ],
+											"to": [ 0.55, 0.15, 0.6 ],
+											"rotationOrigin": [ 1.5, -0.099, 0.7139 ],
+											"faces": {
+												"north": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+												"east": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+												"south": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+												"west": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+												"up": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+												"down": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] }
+											},
+											"children": [
+												{
+													"name": "zamok48",
+													"from": [ 0.001, 0.115, -0.26 ],
+													"to": [ 0.051, 0.315, 0.04 ],
+													"rotationOrigin": [ 1.56, 0.151, -0.2461 ],
+													"rotationX": 24.0,
+													"faces": {
+														"north": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"east": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"south": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"west": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"up": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ], "autoUv": false },
+														"down": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] }
+													}
+												},
+												{
+													"name": "zamok49",
+													"from": [ 0.56, 0.115, -0.26 ],
+													"to": [ 0.61, 0.315, 0.04 ],
+													"rotationOrigin": [ 2.06, 0.151, -0.2461 ],
+													"rotationX": 24.0,
+													"faces": {
+														"north": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"east": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"south": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"west": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"up": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"down": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] }
+													}
+												},
+												{
+													"name": "zamok50",
+													"from": [ -2.49, 0.0, -0.75 ],
+													"to": [ -1.88, 0.2, -0.7 ],
+													"rotationOrigin": [ -0.94, -0.049, -0.6361 ],
+													"rotationX": -180.0,
+													"rotationZ": -180.0,
+													"faces": {
+														"north": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"east": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"south": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"west": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"up": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+														"down": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] }
+													},
+													"children": [
+														{
+															"name": "zamok51",
+															"from": [ 0.001, 0.115, -0.26 ],
+															"to": [ 0.051, 0.315, 0.04 ],
+															"rotationOrigin": [ 1.56, 0.151, -0.2461 ],
+															"rotationX": 24.0,
+															"faces": {
+																"north": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"east": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"south": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"west": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"up": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ], "autoUv": false },
+																"down": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] }
+															}
+														},
+														{
+															"name": "zamok52",
+															"from": [ 0.56, 0.115, -0.26 ],
+															"to": [ 0.61, 0.315, 0.04 ],
+															"rotationOrigin": [ 2.06, 0.151, -0.2461 ],
+															"rotationX": 24.0,
+															"faces": {
+																"north": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"east": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"south": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"west": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"up": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] },
+																"down": { "texture": "#straps", "uv": [ 8.5, 3.5, 9.0, 4.0 ] }
+															}
+														}
+													]
+												}
+											]
+										},
+										{
+											"name": "zamok53",
+											"from": [ 0.2, -0.02, 0.372 ],
+											"to": [ 0.276, 0.02, 0.572 ],
+											"rotationOrigin": [ 0.6, -0.099, 0.4139 ],
+											"rotationX": 7.0,
+											"faces": {
+												"north": { "texture": "#straps", "uv": [ 5.0, 6.0, 5.5, 6.5 ] },
+												"east": { "texture": "#straps", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+												"south": { "texture": "#straps", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+												"west": { "texture": "#straps", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+												"up": { "texture": "#straps", "uv": [ 5.0, 6.5, 5.5, 7.0 ] },
+												"down": { "texture": "#straps", "uv": [ 5.0, 6.5, 5.5, 7.0 ] }
+											}
+										},
+										{
+											"name": "dirkaPeredL3",
+											"from": [ 0.2, -0.015, 0.68 ],
+											"to": [ 0.28, 0.015, 0.76 ],
+											"rotationOrigin": [ 0.7, -0.299, 0.7139 ],
+											"faces": {
+												"north": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+												"east": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+												"south": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+												"west": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+												"up": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+												"down": { "texture": "#leather", "uv": [ 8.0, 5.0, 8.5, 5.5 ] }
+											},
+											"children": [
+												{
+													"name": "dirka70",
+													"from": [ -0.01, 0.001, -0.01 ],
+													"to": [ 0.09, 0.031, 0.09 ],
+													"rotationOrigin": [ 0.54, -0.098, 0.0439 ],
+													"rotationX": -1.0,
+													"faces": {
+														"north": { "texture": "#leather", "uv": [ 12.0, 2.5, 12.5, 3.0 ] },
+														"east": { "texture": "#leather", "uv": [ 13.5, 2.5, 14.0, 3.0 ] },
+														"south": { "texture": "#leather", "uv": [ 13.0, 3.0, 13.5, 3.5 ] },
+														"west": { "texture": "#leather", "uv": [ 11.0, 2.0, 11.5, 2.5 ] },
+														"up": { "texture": "#leather", "uv": [ 10.5, 2.5, 11.0, 3.0 ] },
+														"down": { "texture": "#leather", "uv": [ 11.5, 3.0, 12.0, 3.5 ] }
+													}
+												},
+												{
+													"name": "dirka71",
+													"from": [ 0.0, 0.0, -0.3 ],
+													"to": [ 0.08, 0.03, -0.22 ],
+													"rotationOrigin": [ 0.54, -0.284, -0.2661 ],
+													"faces": {
+														"north": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"east": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+														"south": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+														"west": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"up": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"down": { "texture": "#leather", "uv": [ 8.0, 5.0, 8.5, 5.5 ] }
+													},
+													"children": [
+														{
+															"name": "dirka72",
+															"from": [ -0.01, 0.001, -0.01 ],
+															"to": [ 0.09, 0.031, 0.09 ],
+															"rotationOrigin": [ 0.54, -0.098, 0.0439 ],
+															"rotationX": -1.0,
+															"faces": {
+																"north": { "texture": "#leather", "uv": [ 12.0, 2.5, 12.5, 3.0 ] },
+																"east": { "texture": "#leather", "uv": [ 13.5, 2.5, 14.0, 3.0 ] },
+																"south": { "texture": "#leather", "uv": [ 13.0, 3.0, 13.5, 3.5 ] },
+																"west": { "texture": "#leather", "uv": [ 11.0, 2.0, 11.5, 2.5 ] },
+																"up": { "texture": "#leather", "uv": [ 10.5, 2.5, 11.0, 3.0 ] },
+																"down": { "texture": "#leather", "uv": [ 11.5, 3.0, 12.0, 3.5 ] }
+															}
+														}
+													]
+												},
+												{
+													"name": "dirka182",
+													"from": [ 0.0, 0.0, -0.6 ],
+													"to": [ 0.08, 0.03, -0.52 ],
+													"rotationOrigin": [ 0.54, -0.284, -0.5661 ],
+													"faces": {
+														"north": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"east": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+														"south": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+														"west": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"up": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"down": { "texture": "#leather", "uv": [ 8.0, 5.0, 8.5, 5.5 ] }
+													},
+													"children": [
+														{
+															"name": "dirka183",
+															"from": [ -0.01, 0.001, -0.01 ],
+															"to": [ 0.09, 0.031, 0.09 ],
+															"rotationOrigin": [ 0.54, -0.098, 0.0439 ],
+															"rotationX": -1.0,
+															"faces": {
+																"north": { "texture": "#leather", "uv": [ 12.0, 2.5, 12.5, 3.0 ] },
+																"east": { "texture": "#leather", "uv": [ 13.5, 2.5, 14.0, 3.0 ] },
+																"south": { "texture": "#leather", "uv": [ 13.0, 3.0, 13.5, 3.5 ] },
+																"west": { "texture": "#leather", "uv": [ 11.0, 2.0, 11.5, 2.5 ] },
+																"up": { "texture": "#leather", "uv": [ 10.5, 2.5, 11.0, 3.0 ] },
+																"down": { "texture": "#leather", "uv": [ 11.5, 3.0, 12.0, 3.5 ] }
+															}
+														}
+													]
+												},
+												{
+													"name": "dirka184",
+													"from": [ 0.0, -0.095, -0.76 ],
+													"to": [ 0.08, -0.065, -0.68 ],
+													"rotationOrigin": [ 0.54, -0.384, -0.8661 ],
+													"rotationX": -30.0,
+													"faces": {
+														"north": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"east": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+														"south": { "texture": "#leather", "uv": [ 6.5, 5.0, 7.0, 5.5 ] },
+														"west": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"up": { "texture": "#leather", "uv": [ 7.5, 5.0, 8.0, 5.5 ] },
+														"down": { "texture": "#leather", "uv": [ 8.0, 5.0, 8.5, 5.5 ] }
+													},
+													"children": [
+														{
+															"name": "dirka185",
+															"from": [ -0.01, 0.001, -0.01 ],
+															"to": [ 0.09, 0.031, 0.09 ],
+															"rotationOrigin": [ 0.54, -0.098, 0.0439 ],
+															"rotationX": -1.0,
+															"faces": {
+																"north": { "texture": "#leather", "uv": [ 12.0, 2.5, 12.5, 3.0 ] },
+																"east": { "texture": "#leather", "uv": [ 13.5, 2.5, 14.0, 3.0 ] },
+																"south": { "texture": "#leather", "uv": [ 13.0, 3.0, 13.5, 3.5 ] },
+																"west": { "texture": "#leather", "uv": [ 11.0, 2.0, 11.5, 2.5 ] },
+																"up": { "texture": "#leather", "uv": [ 10.5, 2.5, 11.0, 3.0 ] },
+																"down": { "texture": "#leather", "uv": [ 11.5, 3.0, 12.0, 3.5 ] }
+															}
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "ramka L5",
+									"from": [ -0.09, -0.09, -0.1 ],
+									"to": [ 3.78, 2.86, 2.65 ],
+									"rotationOrigin": [ -0.1, -0.1, -0.1 ],
+									"rotationY": -0.0198,
+									"faces": {
+										"north": { "texture": "#leather", "uv": [ 8.0, 2.5, 11.5, 5.0 ] },
+										"east": { "texture": "#leather", "uv": [ 7.5, 2.0, 10.0, 4.5 ] },
+										"south": { "texture": "#leather", "uv": [ 8.0, 2.0, 11.5, 4.5 ] },
+										"west": { "texture": "#leather", "uv": [ 7.5, 2.5, 10.0, 5.0 ] },
+										"up": { "texture": "#leather", "uv": [ 7.0, 1.0, 10.5, 3.5 ] },
+										"down": { "texture": "#leather", "uv": [ 7.0, 1.5, 10.5, 4.0 ] }
+									}
+								}
+							]
+						},
+						{
+							"name": "Kutik7",
+							"from": [ 3.46, -0.01, 2.92 ],
+							"to": [ 3.86, 0.39, 3.32 ],
+							"rotationOrigin": [ 3.4, -0.1098, 2.7993 ],
+							"rotationY": 90.0,
+							"faces": {
+								"north": { "texture": "#leather", "uv": [ 10.5, 5.0, 11.0, 5.5 ], "autoUv": false },
+								"east": { "texture": "#leather", "uv": [ 11.5, 5.0, 12.0, 5.5 ] },
+								"south": { "texture": "#leather", "uv": [ 11.0, 5.0, 11.5, 5.5 ] },
+								"west": { "texture": "#leather", "uv": [ 11.5, 5.0, 12.0, 5.5 ] },
+								"up": { "texture": "#leather", "uv": [ 11.0, 5.0, 11.5, 5.5 ] },
+								"down": { "texture": "#leather", "uv": [ 11.5, 5.0, 12.0, 5.5 ] }
+							},
+							"children": [
+								{
+									"name": "Kutik8",
+									"from": [ 0.0, 0.0, -3.55 ],
+									"to": [ 0.4, 0.4, -3.15 ],
+									"rotationOrigin": [ -0.06, -0.01, -3.56 ],
+									"faces": {
+										"north": { "texture": "#leather", "uv": [ 11.5, 5.0, 12.0, 5.5 ], "autoUv": false },
+										"east": { "texture": "#leather", "uv": [ 11.5, 5.0, 12.0, 5.5 ] },
+										"south": { "texture": "#leather", "uv": [ 11.0, 5.0, 11.5, 5.5 ] },
+										"west": { "texture": "#leather", "uv": [ 11.0, 5.0, 11.5, 5.5 ] },
+										"up": { "texture": "#leather", "uv": [ 11.0, 5.0, 11.5, 5.5 ] },
+										"down": { "texture": "#leather", "uv": [ 11.5, 5.0, 12.0, 5.5 ] }
+									}
+								}
+							]
+						}
+					]
+				},
+				{
 					"name": "KarmanLiviVerx",
 					"from": [ -2.99, 3.835, 1.0 ],
 					"to": [ 0.41, 8.135, 3.7 ],
@@ -6176,6 +7047,279 @@
 										"west": { "texture": "#leather", "uv": [ 11.0, 5.0, 11.5, 5.5 ] },
 										"up": { "texture": "#leather", "uv": [ 11.0, 5.0, 11.5, 5.5 ] },
 										"down": { "texture": "#leather", "uv": [ 11.5, 5.0, 12.0, 5.5 ] }
+									}
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Fakel",
+					"from": [ -0.12, 0.43, 4.46 ],
+					"to": [ 0.4942, 2.2727, 4.7672 ],
+					"rotationOrigin": [ 0.2073, 0.1306, 4.4607 ],
+					"rotationY": -90.0,
+					"faces": {
+						"north": { "texture": "#material1", "uv": [ 4.5, 12.0, 10.6425, 14.6325 ], "rotation": 90, "autoUv": false },
+						"east": { "texture": "#material1", "uv": [ 4.5, 12.0, 11.52, 14.6325 ], "rotation": 90, "autoUv": false },
+						"south": { "texture": "#material1", "uv": [ 5.0, 12.0, 12.02, 14.6325 ], "rotation": 90, "autoUv": false },
+						"west": { "texture": "#material1", "uv": [ 5.0, 12.0, 12.02, 14.6325 ], "rotation": 90, "autoUv": false },
+						"up": { "texture": "#material1", "uv": [ 5.0, 12.0, 12.02, 14.6325 ], "autoUv": false },
+						"down": { "texture": "#material1", "uv": [ 5.0, 12.0, 12.02, 14.6325 ], "autoUv": false }
+					},
+					"children": [
+						{
+							"name": "holder bottom",
+							"from": [ -0.1534, 0.3072, 0.3072 ],
+							"to": [ 0.7678, 0.6142, 1.2285 ],
+							"faces": {
+								"north": { "texture": "#material1", "uv": [ 5.5, 12.0, 7.255, 15.51 ], "autoUv": false },
+								"east": { "texture": "#material1", "uv": [ 5.5, 12.0, 7.255, 15.51 ], "rotation": 270, "autoUv": false },
+								"south": { "texture": "#material1", "uv": [ 6.0, 12.5, 7.7989, 15.4397 ], "autoUv": false },
+								"west": { "texture": "#material1", "uv": [ 6.0, 12.0, 7.755, 15.51 ], "rotation": 90, "autoUv": false },
+								"up": { "texture": "#material1", "uv": [ 6.0, 12.0, 7.755, 15.51 ], "rotation": 180, "autoUv": false },
+								"down": { "texture": "#material1", "uv": [ 5.5, 11.5, 7.255, 15.01 ], "autoUv": false }
+							},
+							"children": [
+								{
+									"name": "base",
+									"from": [ 0.0, 1.0135, 0.0 ],
+									"to": [ 0.9214, 1.6277, 0.9214 ],
+									"rotationOrigin": [ 0.0, 0.2764, 0.0 ],
+									"faces": {
+										"north": { "texture": "#material1", "uv": [ 7.0, 2.0, 11.3875, 6.3875 ], "autoUv": false },
+										"east": { "texture": "#material1", "uv": [ 7.0, 2.0, 11.3875, 6.3875 ], "autoUv": false },
+										"south": { "texture": "#material1", "uv": [ 7.0, 2.0, 11.3875, 6.3875 ], "autoUv": false },
+										"west": { "texture": "#material1", "uv": [ 7.0, 2.0, 11.3875, 6.3875 ], "autoUv": false },
+										"down": { "texture": "#material1", "uv": [ 7.0, 4.0, 11.3875, 8.3875 ], "autoUv": false }
+									},
+									"children": [
+										{
+											"name": "deco",
+											"from": [ 0.0, 0.6142, 0.0 ],
+											"to": [ 0.9214, 1.5357, 0.9214 ],
+											"renderPass": 1,
+											"faces": {
+												"north": { "texture": "#material1", "uv": [ 9.0, 0.0, 13.3875, 4.3875 ], "autoUv": false },
+												"east": { "texture": "#material1", "uv": [ 9.0, 0.0, 13.3875, 4.3875 ], "autoUv": false },
+												"south": { "texture": "#material1", "uv": [ 9.0, 0.0, 13.3875, 4.3875 ], "autoUv": false },
+												"west": { "texture": "#material1", "uv": [ 9.0, 0.0, 13.3875, 4.3875 ], "autoUv": false }
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "Torch",
+							"from": [ 0.3072, -0.1534, 0.7986 ],
+							"to": [ 0.3072, -0.1534, 0.7986 ],
+							"rotationOrigin": [ 0.3072, -0.1534, 0.7986 ],
+							"faces": {
+							},
+							"children": [
+								{
+									"name": "handle 101",
+									"from": [ -0.3991, 2.1499, -0.3991 ],
+									"to": [ 0.3685, 4.2997, 0.3685 ],
+									"rotationOrigin": [ -0.0921, 2.1499, -0.0921 ],
+									"faces": {
+										"north": { "texture": "#wood", "uv": [ 11.0, 1.5, 11.7678, 3.6499 ] },
+										"east": { "texture": "#wood", "uv": [ 11.5, 0.5, 12.2678, 2.6499 ] },
+										"south": { "texture": "#wood", "uv": [ 2.5, 9.0, 3.2678, 11.1498 ] },
+										"west": { "texture": "#wood", "uv": [ 4.5, 3.0, 5.2678, 5.1499 ] },
+										"down": { "texture": "#wood", "uv": [ 0.0, 13.5, 0.7678, 14.2678 ] }
+									},
+									"children": [
+										{
+											"name": "Cube9",
+											"from": [ 0.0, -1.2285, 0.0 ],
+											"to": [ 0.3072, 0.0, 0.3072 ],
+											"rotationOrigin": [ 0.0, -1.2285, 0.0 ],
+											"faces": {
+												"north": { "texture": "#wood", "uv": [ 6.5, 10.0, 6.8072, 11.2285 ] },
+												"east": { "texture": "#wood", "uv": [ 11.0, 10.5, 11.3071, 11.7285 ] },
+												"south": { "texture": "#wood", "uv": [ 2.5, 0.0, 2.8072, 1.2285 ] },
+												"west": { "texture": "#wood", "uv": [ 2.5, 0.5, 2.8072, 1.7285 ] },
+												"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.3072, 0.3072 ] }
+											}
+										},
+										{
+											"name": "Cube11",
+											"from": [ 0.0, -0.9213, 0.4606 ],
+											"to": [ 0.1534, 0.0, 0.7678 ],
+											"rotationOrigin": [ 0.0, -0.9213, 0.4606 ],
+											"faces": {
+												"north": { "texture": "#wood", "uv": [ 12.0, 11.5, 12.1534, 12.4214 ] },
+												"east": { "texture": "#wood", "uv": [ 4.5, 0.5, 4.8072, 1.4214 ] },
+												"south": { "texture": "#wood", "uv": [ 4.5, 1.5, 4.6534, 2.4214 ] },
+												"west": { "texture": "#wood", "uv": [ 3.0, 1.0, 3.3072, 1.9214 ] },
+												"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.1534, 0.3072 ] }
+											}
+										},
+										{
+											"name": "Cube12",
+											"from": [ 0.3072, -0.6142, 0.4606 ],
+											"to": [ 0.7677, 0.0, 0.7678 ],
+											"rotationOrigin": [ 0.3072, -0.6142, 0.4606 ],
+											"faces": {
+												"north": { "texture": "#wood", "uv": [ 9.0, 10.0, 9.4606, 10.6142 ] },
+												"east": { "texture": "#wood", "uv": [ 4.5, 7.5, 4.8072, 8.1142 ] },
+												"south": { "texture": "#wood", "uv": [ 3.5, 0.5, 3.9606, 1.1142 ] },
+												"west": { "texture": "#wood", "uv": [ 6.5, 0.5, 6.8072, 1.1142 ] },
+												"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.4606, 0.3072 ] }
+											}
+										},
+										{
+											"name": "Cube13",
+											"from": [ 0.3072, -0.9213, 0.0 ],
+											"to": [ 0.7677, 0.0, 0.1534 ],
+											"rotationOrigin": [ 0.3072, -0.9213, 0.0 ],
+											"faces": {
+												"north": { "texture": "#wood", "uv": [ 11.5, 8.5, 11.9606, 9.4214 ] },
+												"east": { "texture": "#wood", "uv": [ 11.5, 3.0, 11.6534, 3.9214 ] },
+												"south": { "texture": "#wood", "uv": [ 3.5, 5.5, 3.9606, 6.4214 ] },
+												"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.4606, 0.1534 ] }
+											}
+										},
+										{
+											"name": "Cube14",
+											"from": [ 0.0, -1.5356, 0.0 ],
+											"to": [ 0.1534, -1.2285, 0.1534 ],
+											"rotationOrigin": [ 0.0, -1.5356, 0.0 ],
+											"faces": {
+												"north": { "texture": "#wood", "uv": [ 7.0, 5.0, 7.1535, 5.3072 ] },
+												"east": { "texture": "#wood", "uv": [ 11.5, 14.5, 11.6534, 14.8072 ] },
+												"south": { "texture": "#wood", "uv": [ 13.5, 11.5, 13.6535, 11.8071 ] },
+												"west": { "texture": "#wood", "uv": [ 2.5, 2.0, 2.6535, 2.3072 ] },
+												"down": { "texture": "#wood", "uv": [ 0.0, 0.0, 0.1534, 0.1534 ] }
+											}
+										}
+									]
+								},
+								{
+									"name": "string 100",
+									"from": [ -0.4299, 3.5013, -0.4299 ],
+									"to": [ 0.4606, 3.8083, 0.4606 ],
+									"rotationOrigin": [ 0.0, 3.5013, 0.0 ],
+									"rotationX": -3.0,
+									"rotationZ": 5.0,
+									"faces": {
+										"north": { "texture": "#flammable-lit", "uv": [ 11.0, 0.5, 11.7678, 0.8072 ], "glow": 220 },
+										"east": { "texture": "#flammable-lit", "uv": [ 3.5, 0.5, 4.2678, 0.8072 ], "glow": 220 },
+										"south": { "texture": "#flammable-lit", "uv": [ 0.0, 0.5, 0.7678, 0.8072 ], "glow": 220 },
+										"west": { "texture": "#flammable-lit", "uv": [ 11.0, 0.5, 11.7678, 0.8072 ], "glow": 220 },
+										"up": { "texture": "#flammable-lit", "uv": [ 13.5, 13.0, 14.2678, 13.7678 ], "glow": 220 },
+										"down": { "texture": "#flammable-lit", "uv": [ 12.5, 13.0, 13.2678, 13.7678 ], "glow": 220 }
+									}
+								},
+								{
+									"name": "string 101",
+									"from": [ -0.4914, 3.9004, -0.4914 ],
+									"to": [ 0.4299, 4.054, 0.4299 ],
+									"rotationOrigin": [ -0.0614, 3.9004, -0.0614 ],
+									"rotationX": 6.0,
+									"rotationZ": -13.0,
+									"faces": {
+										"north": { "texture": "#flammable-lit", "uv": [ 10.5, 0.5, 11.4214, 0.6535 ], "glow": 220 },
+										"east": { "texture": "#flammable-lit", "uv": [ 4.5, 0.5, 5.4214, 0.6535 ], "glow": 220 },
+										"south": { "texture": "#flammable-lit", "uv": [ 5.5, 0.5, 6.4214, 0.6535 ], "glow": 220 },
+										"west": { "texture": "#flammable-lit", "uv": [ 1.5, 0.5, 2.4214, 0.6535 ], "glow": 220 },
+										"up": { "texture": "#flammable-lit", "uv": [ 13.0, 13.0, 13.9214, 13.9214 ], "glow": 220 },
+										"down": { "texture": "#flammable-lit", "uv": [ 12.5, 13.0, 13.4214, 13.9214 ], "glow": 220 }
+									}
+								},
+								{
+									"name": "string 102",
+									"from": [ -0.4914, 3.3169, -0.4606 ],
+									"to": [ 0.4299, 3.4705, 0.4606 ],
+									"rotationOrigin": [ -0.0614, 3.3169, -0.0307 ],
+									"rotationX": -10.0,
+									"rotationZ": -9.0,
+									"faces": {
+										"north": { "texture": "#flammable-lit", "uv": [ 11.0, 1.0, 11.9214, 1.1535 ], "glow": 220 },
+										"east": { "texture": "#flammable-lit", "uv": [ 4.0, 1.0, 4.9214, 1.1535 ], "glow": 220 },
+										"south": { "texture": "#flammable-lit", "uv": [ 6.0, 1.0, 6.9214, 1.1535 ], "glow": 220 },
+										"west": { "texture": "#flammable-lit", "uv": [ 13.0, 1.0, 13.9214, 1.1535 ], "glow": 220 },
+										"up": { "texture": "#flammable-lit", "uv": [ 12.5, 12.5, 13.4214, 13.4214 ], "glow": 220 },
+										"down": { "texture": "#flammable-lit", "uv": [ 13.0, 12.5, 13.9214, 13.4214 ], "glow": 220 }
+									}
+								},
+								{
+									"name": "string 103",
+									"from": [ -0.4606, 3.0712, -0.4914 ],
+									"to": [ 0.4606, 3.2248, 0.4299 ],
+									"rotationOrigin": [ -0.0307, 3.0712, -0.0614 ],
+									"rotationX": 11.0,
+									"rotationZ": 3.0,
+									"faces": {
+										"north": { "texture": "#flammable-lit", "uv": [ 3.5, 0.5, 4.4214, 0.6535 ], "glow": 220 },
+										"east": { "texture": "#flammable-lit", "uv": [ 9.5, 0.5, 10.4214, 0.6535 ], "glow": 220 },
+										"south": { "texture": "#flammable-lit", "uv": [ 0.5, 0.5, 1.4214, 0.6535 ], "glow": 220 },
+										"west": { "texture": "#flammable-lit", "uv": [ 8.5, 0.5, 9.4214, 0.6535 ], "glow": 220 },
+										"up": { "texture": "#flammable-lit", "uv": [ 13.0, 13.0, 13.9214, 13.9214 ], "glow": 220 },
+										"down": { "texture": "#flammable-lit", "uv": [ 12.5, 13.0, 13.4214, 13.9214 ], "glow": 220 }
+									}
+								},
+								{
+									"name": "flammable",
+									"from": [ -0.4299, 2.9484, -0.4299 ],
+									"to": [ 0.3992, 4.3304, 0.3992 ],
+									"rotationOrigin": [ -0.4299, 2.9484, -0.4299 ],
+									"faces": {
+										"north": { "texture": "#flammable-lit", "uv": [ 0.0, 0.0, 0.7678, 1.382 ], "glow": 220 },
+										"east": { "texture": "#flammable-lit", "uv": [ 2.5, 0.0, 3.2678, 1.382 ], "glow": 220 },
+										"south": { "texture": "#flammable-lit", "uv": [ 4.0, 0.0, 4.7678, 1.382 ], "glow": 220 },
+										"west": { "texture": "#flammable-lit", "uv": [ 11.0, 0.0, 11.7678, 1.382 ], "glow": 220 },
+										"up": { "texture": "#flammable-lit", "uv": [ 13.0, 13.0, 13.7678, 13.7678 ], "glow": 220 },
+										"down": { "texture": "#flammable-lit", "uv": [ 13.0, 13.0, 13.7678, 13.7678 ], "glow": 220 }
+									}
+								},
+								{
+									"name": "handle 102",
+									"from": [ -0.3071, 0.0, -0.3071 ],
+									"to": [ 0.3072, 2.1499, 0.3072 ],
+									"rotationOrigin": [ -0.3071, 0.0, -0.3071 ],
+									"faces": {
+										"north": { "texture": "#wood", "uv": [ 13.5, 9.0, 14.1142, 11.1498 ] },
+										"east": { "texture": "#wood", "uv": [ 11.5, 7.5, 12.1142, 9.6498 ] },
+										"south": { "texture": "#wood", "uv": [ 12.0, 8.0, 12.6142, 10.1498 ] },
+										"west": { "texture": "#wood", "uv": [ 13.5, 8.5, 14.1142, 10.6498 ] },
+										"down": { "texture": "#wood", "uv": [ 13.5, 11.0, 14.1142, 11.6142 ] }
+									}
+								}
+							]
+						},
+						{
+							"name": "kriplenniaFakel",
+							"from": [ 0.14, 0.19, -0.6142 ],
+							"to": [ 0.2979, 0.5761, 0.1096 ],
+							"rotationOrigin": [ 0.2062, 0.0976, -0.1404 ],
+							"rotationX": 90.0575,
+							"rotationY": -82.0,
+							"rotationZ": 0.0608,
+							"faces": {
+								"north": { "texture": "#reedrope", "uv": [ 1.0, 4.0, 14.1625, 5.9744 ], "rotation": 90, "autoUv": false },
+								"east": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 13.6625, 5.4744 ], "autoUv": false },
+								"south": { "texture": "#reedrope", "uv": [ 1.0, 4.5, 13.5043, 6.4744 ], "rotation": 90, "autoUv": false },
+								"west": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 13.6625, 5.4744 ], "autoUv": false },
+								"up": { "texture": "#reedrope", "uv": [ 0.5, 4.5, 13.6625, 6.4744 ], "rotation": 90, "autoUv": false },
+								"down": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 13.0043, 5.4744 ], "rotation": 90, "autoUv": false }
+							},
+							"children": [
+								{
+									"name": "kriplenniaFakel2",
+									"from": [ -1.18, 0.0, -0.17 ],
+									"to": [ -1.0221, 0.3861, 0.5539 ],
+									"rotationOrigin": [ -1.1642, -0.0905, 0.2738 ],
+									"rotationY": -25.0,
+									"faces": {
+										"north": { "texture": "#reedrope", "uv": [ 1.0, 4.0, 14.1625, 5.9744 ], "rotation": 90, "autoUv": false },
+										"east": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 13.6625, 5.4744 ], "autoUv": false },
+										"south": { "texture": "#reedrope", "uv": [ 1.0, 4.5, 13.5043, 6.4744 ], "rotation": 90, "autoUv": false },
+										"west": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 13.6625, 5.4744 ], "autoUv": false },
+										"up": { "texture": "#reedrope", "uv": [ 0.5, 4.5, 13.6625, 6.4744 ], "rotation": 90, "autoUv": false },
+										"down": { "texture": "#reedrope", "uv": [ 0.5, 3.5, 13.0043, 5.4744 ], "rotation": 90, "autoUv": false }
 									}
 								}
 							]

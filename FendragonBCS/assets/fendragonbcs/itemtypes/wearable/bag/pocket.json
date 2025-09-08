@@ -1,0 +1,92 @@
+{
+	code: "pocket",
+	enabled: true,
+	maxstacksize: 4,
+	handbook: {
+		groupBy: [ "pocket-{material}-*" ]
+	},
+	variantgroups: [
+		{ code: "material", states: [ "shkira", "polotno", "sturdy" ] },
+		{ code: "size", states: [ "mini", "middle", "big" ] }		
+	],
+	attributes: {
+		shelvable: true,
+		backpack: {
+			quantitySlotsByType: {
+				"pocket-shkira-mini": 1,
+				"pocket-polotno-mini": 1,
+				"pocket-sturdy-mini": 1,
+				
+				"pocket-shkira-middle": 2,
+				"pocket-polotno-middle": 2,
+				"pocket-sturdy-middle": 2,
+
+				"pocket-shkira-big": 3,
+				"pocket-polotno-big": 3,
+				"pocket-sturdy-big": 3,
+			},
+			slotBgColorByType: {
+				"pocket-*-mini": "#FDFDFD",			//сірий, білий
+				"pocket-*-middle": "#A9DFBF",		//зелений
+				"pocket-*-big": "#D4E6F1",			//синій
+				/*				 
+								"#FDFDFD",		//сірий, білий
+								"#A9DFBF",		//зелений
+								"#D4E6F1",		//синій
+								"#f1ecd4",		//жовтий
+								"#F4ECF7",		//фіолетовий
+								"#F2D7D5",		//червоний
+								"#FAD7A0",		//помаранчевий
+				*/
+			}
+		},
+		groundStorageTransform: {
+			translation: { x: 0, y: 0.2, z: 0 },
+			scale: 1.4
+		},
+	},
+	behaviors: [
+		{ name: "GroundStorable", properties: { layout: "Quadrants", collisionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.125, z2: 1 } } },
+		{ name: "HeldBag" }
+	],
+	shape: { base: "fendragonbcs:item/pocket/{size}" },
+	texturesByType: {
+		"pocket-shkira-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/shkira" },
+		},
+		"pocket-polotno-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/polotno2" }
+		},
+		"pocket-sturdy-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/sturdy" }
+		},		
+	},
+	storageFlags: 2,
+	creativeinventory: { 
+		"general": [ "*" ], 
+		"items": [ "*" ], 
+		"FendragonBCS": [ "*" ] 
+	},
+	guiTransform: {
+		translation: { x: -1, y: -24, z: 0 },
+		rotation: { x: 170, y: 137, z: 0 },
+		origin: { x: 0.5299, y: 0.35, z: 0.5 },
+		scale: 3.5
+	},
+	fpHandTransform: {
+		translation: { x: 0, y: 0, z: 0.2 },
+		rotation: { x: 20, y: -73, z: 10 },
+		scale: 2.5
+	},
+	tpHandTransform: {
+		translation: { x: -0.75, y: -0.15, z: -0.6 },
+		rotation: { x: 0, y: 90, z: 0 },
+		scale: 0.86
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0.13, z: 0 },
+		rotation: { x: 90, y: 180, z: 180 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 4.3	
+	}
+}

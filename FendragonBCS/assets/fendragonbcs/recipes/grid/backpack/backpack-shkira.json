@@ -1,0 +1,127 @@
+[
+	{//
+	//Крафт МІНІ рюкзака ШКІРА з намащених шкір тварин СЕРЕДНЯ,ВЕЛИКА,ВЕЛИЧЕЗНА",	
+		ingredientPattern: "SKL,_BP,_HF",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"L": { type: "item", code: "game:hide-pelt-*", name: "variant", allowedVariants: ["huge", "large", "medium"], quantity: 2 },			
+			
+			"B": { type: "item", code: "game:backpack-normal", quantity: 1 },
+			"P": { type: "item", code: "fendragonbcs:pocket-shkira-mini", quantity: 1 },
+			
+			"H": { type: "block", code: "game:torchholder-aged-empty-*", quantity: 1 },
+			"F": { type: "block", code: "game:torch-basic-lit-up", quantity: 1 },						
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-mini", quantity: 1 }
+	},
+	{//
+	//Крафт ВИСОКИЙ рюкзака ШКІРА",	
+		ingredientPattern: "SMK,MRM,_T_",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-shkira-mini", quantity: 1 },
+			"M": { type: "item", code: "fendragonbcs:pocket-shkira-mini", quantity: 1 },
+			
+			"T": { type: "item", code: "game:gear-temporal", quantity: 1 },
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-tall", quantity: 1 }
+	},
+	{//
+	//Крафт БАЗОВИЙ рюкзака ШКІРА",	
+		ingredientPattern: "SKL,MR_",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-shkira-tall", quantity: 1, returnedStack: { type: "block", code: "game:torchholder-aged-empty-north", quantity: 1 } },
+			"M": { type: "item", code: "fendragonbcs:pocket-shkira-middle", quantity: 1, returnedStack: { type: "block", code: "game:torch-basic-lit-up", quantity: 1 } },
+			
+			"L": { type: "block", code: "game:clutter", attributes: { type: "lantern/ground1" }, quantity: 1 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-basic", quantity: 1 }
+	},
+	{//
+	//Крафт ШИРОКИЙ рюкзака ШКІРА",	
+		ingredientPattern: "SK,RM",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-shkira-basic", quantity: 1 },
+			"M": { type: "item", code: "fendragonbcs:pocket-shkira-middle", quantity: 1 },
+		},	
+		width: 2,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-flat", quantity: 1 }
+	},
+	{//
+	//Крафт СУПЕР рюкзака ШКІРА",	
+		ingredientPattern: "SKL,BR_",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },			
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-shkira-flat", quantity: 1, returnedStack: { type: "block", code: "game:clutter", attributes: { type: "lantern/ground1" }, quantity: 1 } },
+			"B": { type: "item", code: "fendragonbcs:pocket-shkira-big", quantity: 1 },
+
+			"L": { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/on/gas-floor2" }, quantity: 1 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-super", quantity: 1 }
+	},
+	{//
+	//Крафт МЕГА рюкзака ШКІРА",	
+		ingredientPattern: "SK_,_RB",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-shkira-super", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:pocket-shkira-big", quantity: 1 },
+		},	
+		width: 3,
+		height: 2,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-mega", quantity: 1 }
+	},
+	{//
+	//Крафт УЛЬТРА рюкзака ШКІРА",	
+		ingredientPattern: "SKL,_R_,MBM",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"R": { type: "item", code: "fendragonbcs:backpack-shkira-mega", quantity: 1, returnedStack: { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/on/gas-floor2" }, quantity: 1 } },
+			"M": { type: "item", code: "fendragonbcs:pocket-shkira-mini", quantity: 1 },
+			"B": { type: "item", code: "fendragonbcs:pocket-shkira-big", quantity: 1 },
+			
+			"L": { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/off/lumi-pipe-h-lamp" }, quantity: 1 },
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 1,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-ultra", quantity: 1 }
+	},
+]

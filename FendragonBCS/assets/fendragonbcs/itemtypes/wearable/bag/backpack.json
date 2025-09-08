@@ -1,0 +1,118 @@
+{
+	code: "backpack",
+	enabled: true,
+	maxstacksize: 1,
+	handbook: {
+		groupBy: [ "backpack-{material}-*" ]
+	},
+	variantgroups: [
+		{ code: "material", states: [ "shkira", "polotno", "sturdy" ] },
+		{ code: "size", states: [ "mini", "tall", "basic", "flat", "super", "mega", "ultra" ] }		
+	],
+	skipVariants: [
+		"backpack-sturdy-mini",
+		"backpack-sturdy-tall"
+	],
+	attributes: {
+		attachableToEntity: {
+			categoryCode: "backpack",
+			attachedShape: { base: "fendragonbcs:item/backpack/attached/{size}" }
+		},
+		wearableAttachment: true,
+		backpack: {
+			quantitySlotsByType: {
+				"backpack-shkira-mini": 8,
+				"backpack-polotno-mini": 8,
+				
+				"backpack-shkira-tall": 11,
+				"backpack-polotno-tall": 11,
+				
+				"backpack-shkira-basic": 13,
+				"backpack-polotno-basic": 13,
+				"backpack-sturdy-basic": 16,
+
+				"backpack-shkira-flat": 15,
+				"backpack-polotno-flat": 15,
+				"backpack-sturdy-flat": 18,
+				
+				"backpack-shkira-super": 18,
+				"backpack-polotno-super": 18,
+				"backpack-sturdy-super": 21,
+				
+				"backpack-shkira-mega": 21,
+				"backpack-polotno-mega": 21,
+				"backpack-sturdy-mega": 24,
+				
+				"backpack-shkira-ultra": 26,
+				"backpack-polotno-ultra": 26,
+				"backpack-sturdy-ultra": 30
+			},
+			slotBgColorByType: {
+				"backpack-*-mini": "#FDFDFD",		//сірий, білий
+				"backpack-*-tall": "#A9DFBF",		//зелений
+				"backpack-*-basic": "#D4E6F1",		//синій
+				"backpack-*-flat": "#f1ecd4",		//жовтий
+				"backpack-*-super": "#F4ECF7",		//фіолетовий
+				"backpack-*-mega": "#F2D7D5",		//червоний
+				"backpack-*-ultra": "#FAD7A0",		//помаранчевий
+			}
+		},
+		groundStorageTransform: {
+			translation: { x: 0, y: 0.2, z: 0 },
+			scale: 1.4
+		},		
+	},
+	behaviors: [
+		{ name: "GroundStorable", properties: { layout: "SingleCenter", collisionBox: { x1: 0.35, y1: 0, z1: 0.35, x2: 0.65, y2: 0.55, z2: 0.65 } } },
+		{ name: "HeldBag" }
+	],
+	shape: { base: "fendragonbcs:item/backpack/{size}" },
+	texturesByType: {
+		"backpack-shkira-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/shkira" },
+		},
+		"backpack-polotno-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/polotno2" }
+		},
+		"backpack-sturdy-*": {
+			"leather": { base: "fendragonbcs:item/bag/backpack/sturdy" }
+		},		
+	},
+	lightHsvbyType: {
+		"backpack-*-mini": [ 4, 4, 14 ],	//смолоскип
+		"backpack-*-tall": [ 7, 3, 16 ],
+		"backpack-*-basic": [ 7, 3, 18 ],	//ліхтар
+		"backpack-*-flat": [ 7, 3, 20 ],	
+		"backpack-*-super": [ 7, 3, 22 ],	//газ.лампа
+		"backpack-*-mega": [ 7, 3, 22 ],	
+		"backpack-*-ultra": [ 7, 3, 24 ]	//лампа Джонаса
+	},
+	storageFlags: 2,
+	creativeinventory: { 
+		"general": [ "*" ], 
+		"items": [ "*" ], 
+		"FendragonBCS": [ "*" ] 
+	},
+	guiTransform: {
+		translation: { x: -2, y: -4, z: 0 },
+		rotation: { x: 170, y: 152, z: 0 },
+		origin: { x: 0.5299, y: 0.35, z: 0.5 },
+		scale: 2.7
+	},
+	fpHandTransform: {
+		translation: { x: 0, y: 0, z: 0.2 },
+		rotation: { x: 20, y: -73, z: 10 },
+		scale: 2.5
+	},
+	tpHandTransform: {
+		translation: { x: -0.66, y: -0.5, z: -0.45 },
+		rotation: { x: -89, y: 67, z: -91 },
+		scale: 0.86
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0.13, z: 0 },
+		rotation: { x: 90, y: 180, z: 180 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 4.3
+	}
+}
