@@ -60,7 +60,18 @@ public class NetworkToggleBackpackLight : ModSystem
         IInventory inventory = fromPlayer.InventoryManager.GetOwnInventory(GlobalConstants.backpackInvClassName);
         if (inventory == null) return;
 
-        IEnumerable<ItemSlot> slots = inventory.Where(slot => !slot.Empty && slot.Itemstack.Collectible.LightHsv.Any() && slot.Itemstack.Collectible.Code.Domain == "fendragonbcs");
+
+        IEnumerable<ItemSlot> slots = inventory.Where(slot =>
+        {
+            if (slot.Empty) return false;
+
+            byte[] bytes = slot.Itemstack.Collectible.LightHsv;
+
+            if (bytes == null || bytes.Length == 0) return false;
+
+            return slot.Itemstack.Collectible.Code.Domain == "fendragonbcs";
+        });
+
         if (!slots.Any()) return;
 
         foreach (ItemSlot slot in slots)

@@ -22,7 +22,16 @@ public static class EntityPlayer_LightHsv_Patch
         {
             return;
         }
-        IEnumerable<ItemSlot> slots = inv.Where(slot => !slot.Empty && slot.Itemstack.Collectible.LightHsv.Any() && slot.Itemstack.Collectible.Code.Domain == "fendragonbcs");
+        IEnumerable<ItemSlot> slots = inv.Where(slot =>
+        {
+            if (slot.Empty) return false;
+
+            byte[] bytes = slot.Itemstack.Collectible.LightHsv;
+
+            if (bytes == null || bytes.Length == 0) return false;
+
+            return slot.Itemstack.Collectible.Code.Domain == "fendragonbcs";
+        });
         if (!slots.Any())
         {
             return;
