@@ -1,0 +1,36 @@
+[
+	{//
+	//Трансформація ПОЛОТНО рюкзака в ШКІРА,	
+		ingredientPattern: "SKE,LBL,_L_",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"E": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"B": { type: "item", code: "fendragonbcs:backpack-polotno-*", name: "size", allowedVariants: [ "mini", "tall", "basic", "flat", "super", "mega", "ultra" ], quantity: 1 },						
+			"L": { type: "item", code: "game:leather-normal-plain", quantity: 2 },
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-{size}", quantity: 1 }
+	},
+	{//
+	//Трансформація МІЦНИЙ рюкзака в ШКІРА (починається з базового),	
+		ingredientPattern: "SKE,LBL,_L_",
+		enabled: true,
+		ingredients: {
+			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
+			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"E": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
+			
+			"B": { type: "item", code: "fendragonbcs:backpack-sturdy-*", name: "size", allowedVariants: [ "basic", "flat", "super", "mega", "ultra" ], quantity: 1 },						
+			"L": { type: "item", code: "game:leather-normal-plain", quantity: 2 },
+		},	
+		width: 3,
+		height: 3,
+		recipeGroup: 2,
+		output: { type: "item", code: "fendragonbcs:backpack-shkira-{size}", quantity: 1 }
+	},
+]

@@ -11,7 +11,7 @@
 		},	
 		width: 1,
 		height: 2,
-		recipeGroup: 2,
+		recipeGroup: 3,
 		output: { type: "item", code: "fendragonbcs:backpack-{material}-mini", quantity: 1 }
 	},
 	{//
@@ -26,7 +26,7 @@
 		},	
 		width: 1,
 		height: 2,
-		recipeGroup: 2,
+		recipeGroup: 3,
 		output: { type: "item", code: "fendragonbcs:backpack-{material}-tall", quantity: 1 }
 	},
 	{//
@@ -41,7 +41,7 @@
 		},	
 		width: 1,
 		height: 2,
-		recipeGroup: 2,
+		recipeGroup: 3,
 		output: { type: "item", code: "fendragonbcs:backpack-{material}-basic", quantity: 1 }
 	},
 	{//
@@ -56,7 +56,7 @@
 		},	
 		width: 1,
 		height: 2,
-		recipeGroup: 2,
+		recipeGroup: 3,
 		output: { type: "item", code: "fendragonbcs:backpack-{material}-flat", quantity: 1 }
 	},
 	{//
@@ -71,7 +71,7 @@
 		},	
 		width: 1,
 		height: 2,
-		recipeGroup: 2,
+		recipeGroup: 3,
 		output: { type: "item", code: "fendragonbcs:backpack-{material}-super", quantity: 1 }
 	},
 	{//
@@ -86,7 +86,7 @@
 		},	
 		width: 1,
 		height: 2,
-		recipeGroup: 2,
+		recipeGroup: 3,
 		output: { type: "item", code: "fendragonbcs:backpack-{material}-mega", quantity: 1 },
 	},
 ]
