@@ -80,12 +80,12 @@
 	},
 	lightHsvbyType: {
 		"backpack-*-mini": [ 4, 4, 14 ],	//смолоскип
-		"backpack-*-tall": [ 7, 3, 16 ],
+		"backpack-*-tall": [ 4, 4, 16 ],
 		"backpack-*-basic": [ 7, 3, 18 ],	//ліхтар
 		"backpack-*-flat": [ 7, 3, 20 ],	
 		"backpack-*-super": [ 7, 3, 22 ],	//газ.лампа
-		"backpack-*-mega": [ 7, 3, 22 ],	
-		"backpack-*-ultra": [ 7, 3, 24 ]	//лампа Джонаса
+		"backpack-*-mega": [ 7, 3, 24 ],	
+		"backpack-*-ultra": [ 7, 3, 26 ]	//лампа Джонаса
 	},
 	storageFlags: 2,
 	creativeinventory: { 
