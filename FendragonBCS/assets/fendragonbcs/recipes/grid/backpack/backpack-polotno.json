@@ -61,7 +61,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-polotno-basic", quantity: 1 },
 			"M": { type: "item", code: "fendragonbcs:pocket-polotno-middle", quantity: 1 },
@@ -77,7 +77,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },			
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-polotno-flat", quantity: 1, returnedStack: { type: "block", code: "game:clutter", attributes: { type: "lantern/ground1" }, quantity: 1 } },
 			"B": { type: "item", code: "fendragonbcs:pocket-polotno-big", quantity: 1 },
@@ -95,7 +95,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-polotno-super", quantity: 1 },
 			"B": { type: "item", code: "fendragonbcs:pocket-polotno-big", quantity: 1 },
@@ -111,7 +111,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-polotno-mega", quantity: 1, returnedStack: { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/on/gas-floor2" }, quantity: 1 } },
 			"M": { type: "item", code: "fendragonbcs:pocket-polotno-mini", quantity: 1 },

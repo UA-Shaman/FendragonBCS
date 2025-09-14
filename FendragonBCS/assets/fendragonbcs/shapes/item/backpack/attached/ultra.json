@@ -25,8 +25,7 @@
 		"quartz": "game:block/stone/gem/quartz",
 		"straps": "game:item/bag/backpack/straps",
 		"temporalgear": "game:item/resource/temporalgear",
-		"amethyst": "fendragonbcs:textures/item/bag/backpack/ametist",
-		"leather": "fendragonbcs:textures/item/bag/backpack/shkira"
+		"amethyst": "fendragonbcs:item/bag/backpack/ametist"
 	},
 	"elements": [
 		{

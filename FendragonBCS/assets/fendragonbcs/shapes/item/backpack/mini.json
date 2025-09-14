@@ -17,7 +17,7 @@
 		"material1": "game:block/metal/torchholder/aged",
 		"flammable-lit": "game:block/wood/torch/flammable-lit",
 		"wood": "game:block/wood/torch/wood",
-		"straps": "game:item/bag/backpack/straps",
+		"straps": "game:item/bag/backpack/straps"
 	},
 	"elements": [
 		{

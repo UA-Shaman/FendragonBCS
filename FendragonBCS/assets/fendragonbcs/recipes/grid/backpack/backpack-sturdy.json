@@ -22,7 +22,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-basic", quantity: 1 },
 			"M": { type: "item", code: "fendragonbcs:pocket-sturdy-middle", quantity: 1 },
@@ -38,7 +38,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },			
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-flat", quantity: 1, returnedStack: { type: "block", code: "game:clutter", attributes: { type: "lantern/ground1" }, quantity: 1 } },
 			"B": { type: "item", code: "fendragonbcs:pocket-sturdy-big", quantity: 1 },
@@ -56,7 +56,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-super", quantity: 1 },
 			"B": { type: "item", code: "fendragonbcs:pocket-sturdy-big", quantity: 1 },
@@ -72,7 +72,7 @@
 		enabled: true,
 		ingredients: {
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:knife-*", isTool: true, toolDurabilityCost: 10 },
+			"K": { type: "item", code: "game:shears-*", isTool: true, toolDurabilityCost: 10 },
 			
 			"R": { type: "item", code: "fendragonbcs:backpack-sturdy-mega", quantity: 1, returnedStack: { type: "block", code: "game:jonas-lamp", attributes: { type: "lightsource/on/gas-floor2" }, quantity: 1 } },
 			"M": { type: "item", code: "fendragonbcs:pocket-sturdy-mini", quantity: 1 },
