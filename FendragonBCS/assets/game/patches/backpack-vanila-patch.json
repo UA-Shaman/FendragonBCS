@@ -5,13 +5,15 @@
 	"enabled": true,
 	"op": "remove",
 	"path": "/attributes/attachableToEntity",
-	"value": null
+	"value": null,
+	"dependsOn": [ { "modid": "equus", "invert": true } ]	//додаємо сумісність з модом Equus (коні)
 	}, 
 	{
 	"file": "game:itemtypes/wearable/bag/backpack.json",
 	"enabled": true,
 	"op": "remove",
 	"path": "/attributes/wearableAttachment",
-	"value": null
+	"value": null,
+	"dependsOn": [ { "modid": "equus", "invert": true } ]	//додаємо сумісність з модом Equus (коні)
 	}, 
 ]

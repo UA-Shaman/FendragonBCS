@@ -63,7 +63,7 @@
 		},		
 	},
 	behaviors: [
-		{ name: "GroundStorable", properties: { layout: "SingleCenter", collisionBox: { x1: 0.35, y1: 0, z1: 0.35, x2: 0.65, y2: 0.55, z2: 0.65 } } },
+		{ name: "GroundStorable", properties: { layout: "SingleCenter", collisionBox: { x1: 0.28, y1: 0, z1: 0.28, x2: 0.72, y2: 0.7, z2: 0.75 } } },
 		{ name: "HeldBag" }
 	],
 	shape: { base: "fendragonbcs:item/backpack/{size}" },

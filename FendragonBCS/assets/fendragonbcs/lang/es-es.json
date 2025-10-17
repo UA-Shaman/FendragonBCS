@@ -1,0 +1,61 @@
+{
+    // PRINCIPAL
+    "game:tabname-FendragonBCS": "Mochilas",
+    "hotkey-togglebackpacklight": "FendragonBCS ► Encender/Apagar Luz de Mochila",
+
+    // MOCHILAS
+    // Pequeña
+    "item-backpack-shkira-mini": "Mochila Pequeña de Cuero",
+    "item-backpack-polotno-mini": "Mochila Pequeña de Lino",
+    // Alargada
+    "item-backpack-shkira-tall": "Mochila Alargada de Cuero",
+    "item-backpack-polotno-tall": "Mochila Alargada de Lino",
+    // Sencilla
+    "item-backpack-shkira-basic": "Mochila Sencilla de Cuero",
+    "item-backpack-polotno-basic": "Mochila Sencilla de Lino",
+    "item-backpack-sturdy-basic": "Mochila Sencilla y Resistente",
+    // Equilibrada
+    "item-backpack-shkira-flat": "Mochila Equilibrada de Cuero",
+    "item-backpack-polotno-flat": "Mochila Equilibrada de Lino",
+    "item-backpack-sturdy-flat": "Mochila Equilibrada y Resistente",
+    // Grande
+    "item-backpack-shkira-super": "Mochila Grande de Cuero",
+    "item-backpack-polotno-super": "Mochila Grande de Lino",
+    "item-backpack-sturdy-super": "Mochila Grande y Resistente",
+    // Gigante
+    "item-backpack-shkira-mega": "Mochila Gigante de Cuero",
+    "item-backpack-polotno-mega": "Mochila Gigante de Lino",
+    "item-backpack-sturdy-mega": "Mochila Gigante y Resistente",
+    // Completa
+    "item-backpack-shkira-ultra": "Mochila Completa de Cuero",
+    "item-backpack-polotno-ultra": "Mochila Completa de Lino",
+    "item-backpack-sturdy-ultra": "Mochila Completa y Resistente",
+
+    // BOLSO
+    // Pequeña
+    "item-pocket-shkira-mini": "Bolso Pequeño de Cuero",
+    "item-pocket-polotno-mini": "Bolso Pequeño de Lino",
+    "item-pocket-sturdy-mini": "Bolso Pequeño y Robusto",
+    // Mediana
+    "item-pocket-shkira-middle": "Bolso Mediano de Cuero",
+    "item-pocket-polotno-middle": "Bolso Mediano de Lino",
+    "item-pocket-sturdy-middle": "Bolso Mediano y Robusto",
+    // Grande
+    "item-pocket-shkira-big": "Bolso Grande de Cuero",
+    "item-pocket-polotno-big": "Bolso Grande de Lino",
+    "item-pocket-sturdy-big": "Bolso Grande y Robusto",
+
+    //Descripciones de los Objetos
+    // MOCHILAS
+    "itemdesc-backpack-*-mini": "Mochila <font color='#FDFDFD'>Pequeña</font> para guardar objetos y equipada con una Antorcha.",
+    "itemdesc-backpack-*-tall": "Mochila <font color='#A9DFBF'>Alargada</font> con un bolsillo adicional en la parte superior y equipada con una Antorcha.",
+    "itemdesc-backpack-*-basic": "Mochila <font color='#D4E6F1'>Sencilla</font> con un bolsillo adicional en el lateral y equipada con un Farol.",
+    "itemdesc-backpack-*-flat": "Mochila <font color='#F2E9BB'>Equilibrada</font> con dos bolsillos adicionales a ambos lados y equipada con un Farol.",
+    "itemdesc-backpack-*-super": "Mochila <font color='#F4ECF7'>Grande</font> con dos bolsillos en un lado, un bolsillo en el otro y equipada con una Lámpara de Gas.",
+    "itemdesc-backpack-*-mega": "Mochila <font color='#F2D7D5'>Gigante</font> con dos bolsillos a ambos lados y equipada con una Lámpara de Gas.",
+    "itemdesc-backpack-*-ultra": "Mochila <font color='#FAD7A0'>Completa</font> totalmente equipada, con todos los bolsillos posibles y equipada con una Lámpara de Jonas.",
+    // BOLSOS
+    "itemdesc-pocket-*-mini": "Bolso <font color='#FDFDFD'>Pequeño</font> decorado con Olivino.",
+    "itemdesc-pocket-*-middle": "Bolso <font color='#A9DFBF'>Mediano</font> decorado con Lapislázuli.",
+    "itemdesc-pocket-*-big": "Bolso <font color='#D4E6F1'>Grande</font> decorado con Amatista.",	
+}
